@@ -18,4 +18,4 @@ status: active-seed
 | SRC-008 | ChatGPT, Claude, Manus, NotebookLM, Gemini, and Grok corpora | Retrieval and production corpus; staged ingestion |
 | SRC-009 | Domains, legal agreements, SLAs, formation, bank, tax, and consulting records | Asset, authority, compliance, and historical evidence; staged review |
 | SRC-010 | ChatGPT-2 — ClaimStore Vision Requirements, exported 2026-08-16 | 157,801-word synthesis created from approximately 15 origin documents; source for 33 extracted working artifacts |
-| SRC-011 | Operational narrative continuation and GitHub cornerstone session, 2026-08-16 | Public-safe continuity narrative, repository decisions, integrity evidence, and milestone record; internal Manus narrative retained outside the public repository |
+| SRC-011 | Operational narratives and GitHub cornerstone session, 2026-08-15–16 | Continuity narrative, repository decisions, integrity evidence, and milestone record; original Manus narrative publicly included by explicit owner authorization on 2026-08-16 |

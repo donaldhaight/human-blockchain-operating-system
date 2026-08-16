@@ -91,6 +91,8 @@ The ChatGPT session gathered the Manus preservation story, Donald's business-pla
 
 The bundle was designed to become a one-step documentation site while also serving as agent-readable project context. It separates Start Here material, business plans, product architecture, evidence and review questions, market packages, execution documents, and operational registers.
 
+The original Manus operational narrative dated August 15, 2026 is preserved unchanged at `sources/narratives/session-operational-narrative-2026-08-15.md`. Although its source metadata labels it `sensitivity: internal`, Donald Haight explicitly authorized its inclusion in the public repository on August 16, 2026 so that future humans and agents can inspect the underlying operational account.
+
 ## The cornerstone: an independent continuity layer
 
 On August 16, 2026, the public GitHub repository `donaldhaight/human-blockchain-operating-system` became the project's independent continuity layer. The connected GitHub workflow initialized `main`, created a review branch, transferred the OKF/Docusaurus bundle, and opened pull request #1.
@@ -128,4 +130,3 @@ The repository is therefore both an archive and a launchpad. It preserves enough
 Update this document when the project crosses a meaningful boundary: a new source family is ingested, an architectural decision changes the system, a prototype becomes operational, an external review changes the plan, a new company or account receives authority, or a major release is accepted.
 
 Detailed evidence should remain in sources, manifests, registers, commits, pull requests, and milestone records. This narrative should explain the movement in plain English so a future human or agent can quickly understand what happened, why it mattered, and what remains to be done.
-

@@ -102,6 +102,13 @@
       "sha256": "e0c62c29d4155603b3d24c6e9cebd9d3b71a9f54647ba3d14cacbd045fe91403"
     },
     {
+      "path": "sources/narratives/session-operational-narrative-2026-08-15.md",
+      "type": "preserved-source",
+      "status": "preserved-owner-authorized-public",
+      "source_id": "SRC-011",
+      "sha256": "8d7fd4c5080d83bbd0334ca71256d73760027a2a2b65385f2eb9c07e8a6cbf8b"
+    },
+    {
       "path": "docs/10-business/claimstore-case-study-master-brief.md",
       "type": "extracted-knowledge-artifact",
       "status": "working-draft",
@@ -300,6 +307,6 @@
       "source_id": "SRC-010"
     }
   ],
-  "source_count": 1,
+  "source_count": 2,
   "extracted_artifact_count": 33
 }
