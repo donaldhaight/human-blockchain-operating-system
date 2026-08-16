@@ -49,6 +49,18 @@
       "status": "working-draft"
     },
     {
+      "path": "docs/00-start-here/operational-narrative.md",
+      "type": "living-operational-narrative",
+      "status": "active-working",
+      "source_id": "SRC-011"
+    },
+    {
+      "path": "docs/60-history/2026-08-16-cornerstone-milestone.md",
+      "type": "milestone-record",
+      "status": "accepted",
+      "source_id": "SRC-011"
+    },
+    {
       "path": "docs/00-start-here/package-index.md",
       "type": "document-register",
       "status": "active"
