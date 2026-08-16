@@ -26,11 +26,22 @@ jobs:
           cache: npm
 
       - name: Install dependencies
-        run: npm ci
+        shell: bash
+        run: |
+          set -o pipefail
+          npm ci --no-audit --no-fund --loglevel verbose 2>&1 | tee npm-ci.log
+          status=${PIPESTATUS[0]}
+          if [ "$status" -ne 0 ]; then
+            diagnostic="$(tail -n 40 npm-ci.log)"
+            diagnostic="${diagnostic//'%'/'%25'}"
+            diagnostic="${diagnostic//$'\r'/'%0D'}"
+            diagnostic="${diagnostic//$'\n'/'%0A'}"
+            echo "::error title=npm ci failed::$diagnostic"
+            exit "$status"
+          fi
 
       - name: Validate OKF bundle
         run: npm run validate
 
       - name: Build Docusaurus
         run: npm run build
-
