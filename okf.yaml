@@ -1,0 +1,28 @@
+okf_version: "0.2"
+bundle_id: human-blockchain-okf-001
+title: Human Blockchain Business and Execution Knowledge Bundle
+owner: Donald Haight
+status: founder-working-draft
+created: 2026-08-16
+target_launch: 2026-11-01
+authority_order:
+  - current_founder_narrative
+  - approved_decisions_and_agreements
+  - working_software_and_observed_results
+  - master_continuity_brief
+  - retrieved_historical_corpus
+principles:
+  - preserve_sources_without_making_preservation_the_product
+  - infer_boldly_and_show_uncertainty
+  - use_rrca_as_customer_zero
+  - keep_humans_accountable_for_consequential_actions
+  - preserve_claimstore_neutrality
+  - build_one_complete_loop_before_scaling
+primary_entry: docs/00-start-here/master-continuity-brief.md
+package_index: docs/00-start-here/package-index.md
+definitions: docs/00-start-here/shared-definitions.md
+registers:
+  decisions: docs/90-registers/decisions.md
+  assumptions: docs/90-registers/assumptions-variables.md
+  risks: docs/90-registers/risks-review-gates.md
+  sources: docs/90-registers/source-register.md

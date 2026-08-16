@@ -1,0 +1,293 @@
+{
+  "okf_version": "0.2",
+  "bundle_id": "human-blockchain-okf-001",
+  "generated_at": "2026-08-16T17:01:12.959Z",
+  "files": [
+    {
+      "path": "README.md",
+      "type": "operator-guide",
+      "status": "active"
+    },
+    {
+      "path": "okf.yaml",
+      "type": "bundle-metadata",
+      "status": "active"
+    },
+    {
+      "path": "package.json",
+      "type": "site-config",
+      "status": "active"
+    },
+    {
+      "path": "docusaurus.config.js",
+      "type": "site-config",
+      "status": "active"
+    },
+    {
+      "path": "sidebars.js",
+      "type": "site-config",
+      "status": "active"
+    },
+    {
+      "path": "src/css/custom.css",
+      "type": "site-style",
+      "status": "active"
+    },
+    {
+      "path": "scripts/validate.mjs",
+      "type": "validation",
+      "status": "active"
+    },
+    {
+      "path": "scripts/extract_claimstore_okf.mjs",
+      "type": "extraction-tool",
+      "status": "active"
+    },
+    {
+      "path": "docs/00-start-here/master-continuity-brief.md",
+      "type": "commissioning-brief",
+      "status": "working-draft"
+    },
+    {
+      "path": "docs/00-start-here/package-index.md",
+      "type": "document-register",
+      "status": "active"
+    },
+    {
+      "path": "docs/00-start-here/shared-definitions.md",
+      "type": "vocabulary",
+      "status": "active-working"
+    },
+    {
+      "path": "docs/90-registers/decisions.md",
+      "type": "decision-register",
+      "status": "active"
+    },
+    {
+      "path": "docs/90-registers/assumptions-variables.md",
+      "type": "assumption-register",
+      "status": "active"
+    },
+    {
+      "path": "docs/90-registers/risks-review-gates.md",
+      "type": "risk-register",
+      "status": "active"
+    },
+    {
+      "path": "docs/90-registers/source-register.md",
+      "type": "source-register",
+      "status": "active"
+    },
+    {
+      "path": "docs/00-start-here/extraction-report.md",
+      "type": "extraction-report",
+      "status": "generated"
+    },
+    {
+      "path": "sources/ChatGPT-2-ClaimStore-Vision-Requirements-20260816-1153.md",
+      "type": "preserved-source",
+      "status": "preserved",
+      "sha256": "e0c62c29d4155603b3d24c6e9cebd9d3b71a9f54647ba3d14cacbd045fe91403"
+    },
+    {
+      "path": "docs/10-business/claimstore-case-study-master-brief.md",
+      "type": "extracted-knowledge-artifact",
+      "status": "working-draft",
+      "source_id": "SRC-010"
+    },
+    {
+      "path": "docs/20-product/claimstore-requirements-discovery.md",
+      "type": "extracted-knowledge-artifact",
+      "status": "working-draft",
+      "source_id": "SRC-010"
+    },
+    {
+      "path": "docs/20-product/claimexpress-protocol.md",
+      "type": "extracted-knowledge-artifact",
+      "status": "working-draft",
+      "source_id": "SRC-010"
+    },
+    {
+      "path": "docs/20-product/claimexpress-offer-need-done-addendum.md",
+      "type": "extracted-knowledge-artifact",
+      "status": "working-draft",
+      "source_id": "SRC-010"
+    },
+    {
+      "path": "docs/10-business/george-washington-rollout.md",
+      "type": "extracted-knowledge-artifact",
+      "status": "working-draft",
+      "source_id": "SRC-010"
+    },
+    {
+      "path": "docs/20-product/claimstore-object-model-addendum.md",
+      "type": "extracted-knowledge-artifact",
+      "status": "working-draft",
+      "source_id": "SRC-010"
+    },
+    {
+      "path": "docs/20-product/human-blockchain-claimbuddy-model.md",
+      "type": "extracted-knowledge-artifact",
+      "status": "working-draft",
+      "source_id": "SRC-010"
+    },
+    {
+      "path": "docs/20-product/rrca-sla-ter-model.md",
+      "type": "extracted-knowledge-artifact",
+      "status": "working-draft",
+      "source_id": "SRC-010"
+    },
+    {
+      "path": "docs/20-product/insurance-determination-claim-caller.md",
+      "type": "extracted-knowledge-artifact",
+      "status": "working-draft",
+      "source_id": "SRC-010"
+    },
+    {
+      "path": "docs/20-product/designation-model.md",
+      "type": "extracted-knowledge-artifact",
+      "status": "working-draft",
+      "source_id": "SRC-010"
+    },
+    {
+      "path": "docs/30-evidence/quantum-dashboard-underwriting.md",
+      "type": "extracted-knowledge-artifact",
+      "status": "working-draft",
+      "source_id": "SRC-010"
+    },
+    {
+      "path": "docs/40-market/founding-sponsor-position-book.md",
+      "type": "extracted-knowledge-artifact",
+      "status": "working-draft",
+      "source_id": "SRC-010"
+    },
+    {
+      "path": "docs/20-product/phase1-product-requirements.md",
+      "type": "extracted-knowledge-artifact",
+      "status": "working-draft",
+      "source_id": "SRC-010"
+    },
+    {
+      "path": "docs/10-business/season1-operating-plan.md",
+      "type": "extracted-knowledge-artifact",
+      "status": "working-draft",
+      "source_id": "SRC-010"
+    },
+    {
+      "path": "docs/50-execution/developer-agent-handoff.md",
+      "type": "extracted-knowledge-artifact",
+      "status": "working-draft",
+      "source_id": "SRC-010"
+    },
+    {
+      "path": "docs/30-evidence/legal-architecture-review-map.md",
+      "type": "extracted-knowledge-artifact",
+      "status": "working-draft",
+      "source_id": "SRC-010"
+    },
+    {
+      "path": "docs/40-market/one-prompt-event-package.md",
+      "type": "extracted-knowledge-artifact",
+      "status": "working-draft",
+      "source_id": "SRC-010"
+    },
+    {
+      "path": "docs/20-product/master-glossary.md",
+      "type": "extracted-knowledge-artifact",
+      "status": "working-draft",
+      "source_id": "SRC-010"
+    },
+    {
+      "path": "docs/20-product/entity-role-designation-matrix.md",
+      "type": "extracted-knowledge-artifact",
+      "status": "working-draft",
+      "source_id": "SRC-010"
+    },
+    {
+      "path": "docs/20-product/data-model-master.md",
+      "type": "extracted-knowledge-artifact",
+      "status": "working-draft",
+      "source_id": "SRC-010"
+    },
+    {
+      "path": "docs/50-execution/backlog-user-stories.md",
+      "type": "extracted-knowledge-artifact",
+      "status": "working-draft",
+      "source_id": "SRC-010"
+    },
+    {
+      "path": "docs/20-product/user-flow-master.md",
+      "type": "extracted-knowledge-artifact",
+      "status": "working-draft",
+      "source_id": "SRC-010"
+    },
+    {
+      "path": "docs/50-execution/master-context.md",
+      "type": "extracted-knowledge-artifact",
+      "status": "working-draft",
+      "source_id": "SRC-010"
+    },
+    {
+      "path": "docs/50-execution/working-model-index.md",
+      "type": "extracted-knowledge-artifact",
+      "status": "working-draft",
+      "source_id": "SRC-010"
+    },
+    {
+      "path": "docs/50-execution/source-decision-log.md",
+      "type": "extracted-knowledge-artifact",
+      "status": "working-draft",
+      "source_id": "SRC-010"
+    },
+    {
+      "path": "docs/50-execution/source-open-questions.md",
+      "type": "extracted-knowledge-artifact",
+      "status": "working-draft",
+      "source_id": "SRC-010"
+    },
+    {
+      "path": "docs/50-execution/source-index.md",
+      "type": "extracted-knowledge-artifact",
+      "status": "working-draft",
+      "source_id": "SRC-010"
+    },
+    {
+      "path": "docs/50-execution/agent-system-prompt.md",
+      "type": "extracted-knowledge-artifact",
+      "status": "working-draft",
+      "source_id": "SRC-010"
+    },
+    {
+      "path": "docs/50-execution/mvp-demo-requirements.md",
+      "type": "extracted-knowledge-artifact",
+      "status": "working-draft",
+      "source_id": "SRC-010"
+    },
+    {
+      "path": "docs/20-product/screen-inventory-ux-flow.md",
+      "type": "extracted-knowledge-artifact",
+      "status": "working-draft",
+      "source_id": "SRC-010"
+    },
+    {
+      "path": "docs/50-execution/api-event-schema.md",
+      "type": "extracted-knowledge-artifact",
+      "status": "working-draft",
+      "source_id": "SRC-010"
+    },
+    {
+      "path": "docs/50-execution/data-dictionary-field-naming.md",
+      "type": "extracted-knowledge-artifact",
+      "status": "working-draft",
+      "source_id": "SRC-010"
+    },
+    {
+      "path": "docs/20-product/mvp-erd-outline.md",
+      "type": "extracted-knowledge-artifact",
+      "status": "working-draft",
+      "source_id": "SRC-010"
+    }
+  ],
+  "source_count": 1,
+  "extracted_artifact_count": 33
+}
