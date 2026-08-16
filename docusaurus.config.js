@@ -2,12 +2,17 @@
 const config = {
   title: 'Human Blockchain',
   tagline: 'Business plan, operating system, and One Prompt commissioning knowledge',
-  url: 'https://example.invalid',
-  baseUrl: '/',
+  url: 'https://donaldhaight.github.io',
+  baseUrl: '/human-blockchain-operating-system/',
+  trailingSlash: false,
   onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
-  organizationName: 'DonaldHaight',
-  projectName: 'human-blockchain-okf',
+  markdown: {
+    hooks: {
+      onBrokenMarkdownLinks: 'warn',
+    },
+  },
+  organizationName: 'donaldhaight',
+  projectName: 'human-blockchain-operating-system',
   presets: [
     [
       'classic',
@@ -15,7 +20,7 @@ const config = {
         docs: {
           routeBasePath: '/',
           sidebarPath: require.resolve('./sidebars.js'),
-          showLastUpdateTime: true,
+          showLastUpdateTime: false,
         },
         blog: false,
         theme: {customCss: require.resolve('./src/css/custom.css')},
@@ -26,8 +31,13 @@ const config = {
     navbar: {
       title: 'Human Blockchain',
       items: [
-        {to: '/package-index', label: 'Package', position: 'left'},
-        {to: '/shared-definitions', label: 'Definitions', position: 'left'},
+        {to: '/start-here/package-index', label: 'Package', position: 'left'},
+        {to: '/start-here/shared-definitions', label: 'Definitions', position: 'left'},
+        {
+          href: 'https://github.com/donaldhaight/human-blockchain-operating-system',
+          label: 'GitHub',
+          position: 'right',
+        },
       ],
     },
     footer: {

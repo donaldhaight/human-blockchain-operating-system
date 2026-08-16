@@ -14,6 +14,31 @@
       "status": "active"
     },
     {
+      "path": ".gitignore",
+      "type": "repository-config",
+      "status": "active"
+    },
+    {
+      "path": "package-lock.json",
+      "type": "dependency-lockfile",
+      "status": "active"
+    },
+    {
+      "path": ".github/workflows/test-deploy.yml",
+      "type": "continuous-integration",
+      "status": "active"
+    },
+    {
+      "path": ".github/workflows/deploy.yml",
+      "type": "continuous-deployment",
+      "status": "active"
+    },
+    {
+      "path": "static/.nojekyll",
+      "type": "github-pages-config",
+      "status": "active"
+    },
+    {
       "path": "okf.yaml",
       "type": "bundle-metadata",
       "status": "active"

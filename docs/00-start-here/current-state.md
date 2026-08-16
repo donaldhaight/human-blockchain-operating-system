@@ -1,5 +1,6 @@
 ---
 id: current-state
+slug: /
 title: Current State — Post-Cornerstone Baseline
 owner: Donald Haight
 status: active
@@ -62,9 +63,15 @@ The corpus is not a single perfected manuscript and does not need to become one 
 
 All source material is useful and eligible for retrieval and regeneration. A separate `current programming baseline` will give developers clear Season 1 and Season 2 instructions without demoting the rest of the corpus.
 
-## Immediate next gate
+## Documentation deployment
 
-Deploy the Docusaurus documentation site reproducibly through GitHub. Definition of done:
+Issue [#4](https://github.com/donaldhaight/human-blockchain-operating-system/issues/4) defines the first engineering milestone. The repository now carries the proposed GitHub Actions workflows, deterministic npm lockfile, GitHub Pages configuration, and expected public URL:
+
+[Human Blockchain knowledge site](https://donaldhaight.github.io/human-blockchain-operating-system/)
+
+The URL becomes verified operational evidence only after the deployment change is merged, the GitHub Pages source is set to **GitHub Actions**, and the production workflow succeeds.
+
+Definition of done:
 
 1. Clean dependency installation succeeds.
 2. `node scripts/validate.mjs` succeeds.
@@ -72,4 +79,3 @@ Deploy the Docusaurus documentation site reproducibly through GitHub. Definition
 4. GitHub Actions verifies every pull request.
 5. Every accepted push to `main` deploys the site.
 6. The public documentation URL is recorded here and in `README.md`.
-
