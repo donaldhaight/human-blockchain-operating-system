@@ -2,10 +2,21 @@
 
 This package is the Docusaurus-ready knowledge and commissioning layer for the Human Blockchain business and software program.
 
+[![Test deployment](https://github.com/donaldhaight/human-blockchain-operating-system/actions/workflows/test-deploy.yml/badge.svg)](https://github.com/donaldhaight/human-blockchain-operating-system/actions/workflows/test-deploy.yml)
+[![Deploy to GitHub Pages](https://github.com/donaldhaight/human-blockchain-operating-system/actions/workflows/deploy.yml/badge.svg)](https://github.com/donaldhaight/human-blockchain-operating-system/actions/workflows/deploy.yml)
+
+## Knowledge site
+
+The public documentation site is configured for:
+
+<https://donaldhaight.github.io/human-blockchain-operating-system/>
+
+GitHub Pages publishes automatically after an accepted push to `main` once the repository Pages source is set to **GitHub Actions**.
+
 ## Start locally
 
 ```bash
-npm install
+npm ci
 npm run validate
 npm start
 ```
@@ -16,7 +27,7 @@ npm start
 npm run build
 ```
 
-The generated site is written to `build/` and can be published by any static-site host.
+The generated site is written to `build/`. Pull requests validate and build the site; accepted pushes to `main` publish the build through GitHub Pages.
 
 ## Governing rule
 
