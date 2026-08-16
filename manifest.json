@@ -9,6 +9,11 @@
       "status": "active"
     },
     {
+      "path": "AGENTS.md",
+      "type": "agent-instructions",
+      "status": "active"
+    },
+    {
       "path": "okf.yaml",
       "type": "bundle-metadata",
       "status": "active"
@@ -52,6 +57,12 @@
       "path": "docs/00-start-here/operational-narrative.md",
       "type": "living-operational-narrative",
       "status": "active-working",
+      "source_id": "SRC-011"
+    },
+    {
+      "path": "docs/00-start-here/current-state.md",
+      "type": "current-state-handoff",
+      "status": "active",
       "source_id": "SRC-011"
     },
     {
@@ -197,6 +208,24 @@
       "type": "extracted-knowledge-artifact",
       "status": "working-draft",
       "source_id": "SRC-010"
+    },
+    {
+      "path": "docs/50-execution/chatgpt-project-structure.md",
+      "type": "project-organization-plan",
+      "status": "proposed-ready",
+      "source_id": "SRC-011"
+    },
+    {
+      "path": "docs/50-execution/master-roadmap.md",
+      "type": "execution-roadmap",
+      "status": "active-working",
+      "source_id": "SRC-011"
+    },
+    {
+      "path": "docs/50-execution/next-session-prompt.md",
+      "type": "restart-prompt",
+      "status": "active",
+      "source_id": "SRC-011"
     },
     {
       "path": "docs/30-evidence/legal-architecture-review-map.md",
