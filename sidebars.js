@@ -6,6 +6,7 @@ module.exports = {
       collapsed: false,
       items: [
         '00-start-here/master-continuity-brief',
+        '00-start-here/current-state',
         '00-start-here/operational-narrative',
         '00-start-here/package-index',
         '00-start-here/shared-definitions',
