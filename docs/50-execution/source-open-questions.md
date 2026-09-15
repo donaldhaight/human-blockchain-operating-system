@@ -1898,13 +1898,112 @@ Legal Review Agent
 Sponsor Package Agent
 Kimosabe Coordinator Agent
 ```
-
 ---
+## Q213 — Which business line should carry the Agent Company Operating System?
+Category:
+```text
+FOUNDER
+STRATEGY
+AGENT
+```
+Priority:
+```text
+P1
+```
+Status:
+```text
+NEEDS_FOUNDER_DECISION
+```
+Why It Matters:
 
+The operating system needs a clear owner, naming context, and record boundary. Candidate treatments are Market Applications, an internal Human Blockchain operating capability, or another defined USA LLC business line.
+
+Related Documents:
+```text
+Agent Company Operating System
+Master Continuity Brief
+Decision Register
+```
+---
+## Q214 — Is the first Agent Company objective internal proof or an external software/services offering?
+Category:
+```text
+FOUNDER
+STRATEGY
+OPERATIONS
+```
+Priority:
+```text
+P1
+```
+Status:
+```text
+NEEDS_FOUNDER_DECISION
+```
+Why It Matters:
+
+An internal Company Zero proof keeps scope and legal exposure low. An external offering adds customer, contract, data, support, and commercial requirements.
+
+Related Documents:
+```text
+Agent Company Operating System
+Season 1 Operating Plan
+Risks and Review Gates
+```
+---
+## Q215 — Which bounded RRCA / ClaimStore delivery loop should be proved first?
+Category:
+```text
+FOUNDER
+PRODUCT
+SEASON_1
+AGENT
+```
+Priority:
+```text
+P0
+```
+Status:
+```text
+NEEDS_FOUNDER_DECISION
+```
+Why It Matters:
+
+The first loop defines the practical test of the agent-company model. It must be narrow, useful to RRCA, measurable, reversible, and representative of the Lead-to-Done architecture.
+
+Potential Decision Path:
+```text
+Select one capability with a named user, workflow, acceptance test, source basis, and release owner.
+```
+---
+## Q216 — Which initial operating model should Company Zero test first?
+Category:
+```text
+FOUNDER
+TECHNICAL
+AGENT
+```
+Priority:
+```text
+P1
+```
+Status:
+```text
+NEEDS_FOUNDER_DECISION
+```
+Why It Matters:
+
+The team can initially use a human-guided repository and workspace or invest immediately in a dedicated company control-plane application. The first option reduces setup and maximizes learning; the second increases repeatability but adds build and governance burden.
+
+Related Documents:
+```text
+Agent Company Operating System
+Master Roadmap
+Developer and Agent Handoff Package
+```
+---
 # 16. Open Question Review Cadence
-
 Questions should be reviewed:
-
 ```text
 Weekly during repository creation
 Weekly during MVP build

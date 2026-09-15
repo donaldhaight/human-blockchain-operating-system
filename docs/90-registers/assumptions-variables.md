@@ -17,3 +17,4 @@ status: active-register
 | VAR-007 | Task Efficiency Rating formula | Product variable | Do not operationalize assignment consequences before fairness testing |
 | VAR-008 | $1M Founding Seat | Commercial hypothesis | Must deliver defensible present value and remain separate from disguised investment |
 | VAR-009 | November 1, 2026 activation scope | Program variable | Freeze after end-to-end beta and readiness review |
+| VAR-010 | Agent Company Operating System can reduce founder-as-middleware burden while improving software delivery quality | Operating hypothesis | Test through one bounded RRCA / ClaimStore delivery loop with measurable quality, escalation, governance, and rework results |

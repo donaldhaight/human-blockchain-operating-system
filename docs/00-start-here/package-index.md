@@ -16,6 +16,7 @@ The package is generated from one shared operating model. Documents are audience
 | Master Continuity Brief | Working draft | Governing commissioning narrative and execution blueprint |
 | Package Index | Active register | Defines the coordinated deliverable set and build order |
 | Shared Definitions | Active register | Prevents agents and documents from silently changing core meanings |
+| Living-Program Instruction Manual | Active working draft | Sets the common structure, authority boundaries, and maintenance protocol for future outputs |
 | Decisions, assumptions, risks, sources | Seeded registers | Capture change without forcing premature finality |
 | ClaimStore Requirements Extraction | Complete | 33 clean working artifacts extracted from SRC-010 |
 
@@ -68,7 +69,7 @@ The package is generated from one shared operating model. Documents are audience
 
 | ID | Document | Status |
 |---|---|---|
-| E01 | Agent Team and Orchestration Manual | Developer/Agent Handoff and Agent System Prompt extracted |
+| E01 | Agent Team and Orchestration Manual | Extracted foundation supplemented by the Agent Company Operating System v0.1; first delivery-loop proof remains pending |
 | E02 | Knowledge and Corpus Ingestion Specification | Requirements refresh exists |
 | E03 | Project Management and Automation Specification | Backlog, user stories, event schema, and flows extracted |
 | E04 | Technical Implementation and Repository Plan | Data model, ERD, dictionary, event schema, and handoff extracted |

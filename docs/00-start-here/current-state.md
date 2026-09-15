@@ -6,7 +6,7 @@ owner: Donald Haight
 status: active
 sensitivity: public-repository
 created: 2026-08-16
-last_reviewed: 2026-08-16
+last_reviewed: 2026-09-15
 source_ids:
   - SRC-010
   - SRC-011
@@ -33,8 +33,8 @@ The repository contains an Open Knowledge Format bundle, Docusaurus documentatio
 | PR #1 merge | `0270610f596912a248b58603fa359c20ff21e62b` |
 | PR #2 | Added living narrative, cornerstone milestone, source registration, and the owner-authorized original Manus narrative |
 | PR #2 merge | `01fe16fd1d7e81a39b1e2e7825a1958ee178ecc3` |
-| Current verified repository tree | 54 files before this continuity package |
-| Current OKF validation | 53 registered files and 43 unique documentation IDs before this continuity package |
+| Current verified repository tree | 65 registered files after the Agent Company Operating System v0.1 addition |
+| Current OKF validation | 65 registered files and 49 unique documentation IDs on 2026-09-15 |
 
 ## What works
 
@@ -46,16 +46,19 @@ The repository contains an Open Knowledge Format bundle, Docusaurus documentatio
 - A preserved 157,801-word ClaimStore synthesis and original Manus operational narrative
 - Business, product, evidence, market, execution, and register document families
 - A living operational narrative and milestone history
+- A living instruction manual and Agent Company Operating System planning track with explicit human authority boundaries
+- Clean dependency installation, OKF validation, and local Docusaurus production build verified on 2026-09-15
 
 ## What is not complete
 
-- The Docusaurus production build has not been completed in an environment with npm dependency access.
-- The documentation site is not yet deployed or assigned a public site URL.
-- No continuous-integration workflow is installed.
+- GitHub Actions validation and deployment have not yet been verified from an accepted remote change.
+- The documentation site's public deployment status remains unverified.
+- The local dependency install reported 30 npm audit findings: 1 low, 24 moderate, and 5 high severity; remediation requires dependency-impact review.
 - The multi-platform corpus ingestion engine has not been implemented.
 - Manus and ChatGPT exports have not been ingested into a source registry.
 - The 33 existing GitHub repositories have not been systematically inventoried.
 - The Phase Zero platform and domain lead-machine portfolio have not been generated from this foundation.
+- The Agent Company Operating System has not yet completed its first bounded internal delivery-loop proof.
 
 ## Current interpretation of the corpus
 
