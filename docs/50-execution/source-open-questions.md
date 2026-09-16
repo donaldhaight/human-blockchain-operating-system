@@ -2427,6 +2427,166 @@ Legal Services and Jurisdictional Attorney Network Operating System
 Risks and Review Gates
 ```
 ---
+## Q233 — Is the first construction-management product coordination software only, owner-authorized support, or a future licensed construction operation?
+Category:
+```text
+FOUNDER
+PRODUCT
+LEGAL
+OPERATIONS
+```
+Priority:
+```text
+P0
+```
+Status:
+```text
+NEEDS_FOUNDER_DECISION
+```
+Why It Matters:
+
+The operating posture determines contractual scope, licensing, insurance, safety, staffing, permits, payment, warranty, product claims, and the platform/agent authority boundary. The recommended starting posture is coordination and project-information software only.
+
+Related Documents:
+```text
+Construction Management Startup Operating System
+Legal Architecture To Be Vetted
+Risks and Review Gates
+```
+---
+## Q234 — Which state/market and project type should host the first construction-management Company Zero pilot?
+Category:
+```text
+FOUNDER
+SEASON_1
+LEGAL
+OPERATIONS
+```
+Priority:
+```text
+P0
+```
+Status:
+```text
+NEEDS_FOUNDER_DECISION
+```
+Why It Matters:
+
+Contractor, construction-management, permit, inspection, safety, consumer-protection, lien, payment, and data rules vary by jurisdiction and project type. A first pilot needs a bounded geographic and construction scope before responsible-party controls can be completed.
+
+Related Documents:
+```text
+Construction Management Startup Operating System
+Season 1 Operating Plan and Roadmap
+Phase 1 Product Requirements Document
+```
+---
+## Q235 — Who is the customer, who contracts with the property owner, and who owns each construction responsibility for the first pilot?
+Category:
+```text
+FOUNDER
+OPERATIONS
+LEGAL
+CONSTRUCTION
+```
+Priority:
+```text
+P0
+```
+Status:
+```text
+NEEDS_FOUNDER_DECISION
+```
+Why It Matters:
+
+The system must identify the property owner, licensed contractor, project lead, site/safety owner, permit/inspection responsibility, quality responsibility, warranty issuer, payment authority, and escalation path. Coordination software cannot silently absorb those roles.
+
+Related Documents:
+```text
+Construction Management Startup Operating System
+Construction Management Pilot Launch-Gate Template
+Legal Architecture To Be Vetted
+```
+---
+## Q236 — Which named person or entity controls site safety and the emergency/escalation path for the first pilot?
+Category:
+```text
+FOUNDER
+OPERATIONS
+LEGAL
+SAFETY
+```
+Priority:
+```text
+P0
+```
+Status:
+```text
+NEEDS_FOUNDER_DECISION
+```
+Why It Matters:
+
+The platform can record issues and notify responsible parties, but it cannot become a safety authority through automation. Site control and safety responsibility must be real, named, contractually/operationally supported, and reachable through a tested escalation path.
+
+Related Documents:
+```text
+Construction Management Startup Operating System
+Construction Management Pilot Launch-Gate Template
+Professional Participant Agreement Review
+```
+---
+## Q237 — What data basis may the construction-management proof use?
+Category:
+```text
+FOUNDER
+DATA_MODEL
+LEGAL
+SECURITY
+```
+Priority:
+```text
+P0
+```
+Status:
+```text
+NEEDS_FOUNDER_DECISION
+```
+Why It Matters:
+
+Synthetic records can test the authority, scope, schedule, change, evidence, and closeout model. Authorized real project records add operating learning but require a documented access basis, consent, contractor/owner expectations, retention, confidentiality, and incident controls.
+
+Related Documents:
+```text
+Construction Management Startup Operating System
+Construction Management Pilot Launch-Gate Template
+Risks and Review Gates
+```
+---
+## Q238 — Which single construction-management workflow should be proved first?
+Category:
+```text
+FOUNDER
+PRODUCT
+SEASON_1
+AGENT
+```
+Priority:
+```text
+P0
+```
+Status:
+```text
+NEEDS_FOUNDER_DECISION
+```
+Why It Matters:
+
+The first loop must be narrow enough to test permissions and responsibility, yet useful enough to prove project value. Candidate paths include scope-to-baseline, job/order coordination, change control, field evidence, punch/quality correction, and completion/closeout.
+
+Potential Decision Path:
+```text
+Choose one workflow with a named project, jurisdiction, customer, contract/responsibility map, data basis, acceptance tests, release owner, and retrospective measure.
+```
+---
 # 16. Open Question Review Cadence
 Questions should be reviewed:
 ```text

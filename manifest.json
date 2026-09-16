@@ -1,7 +1,7 @@
 {
   "okf_version": "0.2",
   "bundle_id": "human-blockchain-okf-001",
-  "generated_at": "2026-09-16T20:29:15.403Z",
+  "generated_at": "2026-09-16T20:40:01.663Z",
   "files": [
     {
       "path": "README.md",
@@ -398,6 +398,16 @@
     {
       "path": "docs/50-execution/legal-matter-jurisdictional-launch-gate-template.md",
       "type": "legal-services-launch-gate-template",
+      "status": "active-template"
+    },
+    {
+      "path": "docs/50-execution/construction-management-startup-operating-system.md",
+      "type": "construction-management-operating-plan",
+      "status": "founder-working-draft"
+    },
+    {
+      "path": "docs/50-execution/construction-management-pilot-launch-gate-template.md",
+      "type": "construction-management-launch-gate-template",
       "status": "active-template"
     }
   ],

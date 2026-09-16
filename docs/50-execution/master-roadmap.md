@@ -140,3 +140,9 @@ Done when one selected RRCA / ClaimStore workflow demonstrates role-specific con
 Establish a human-governed legal-readiness and jurisdictional-attorney network that coordinates independently qualified counsel without assuming the practice of law. Begin with verified coverage records, separate-engagement controls, client-choice disclosures, matter-data boundaries, agent action blocks, and a single-jurisdiction internal readiness proof. Do not use a DAO, platform, reciprocal attorney-in-fact, or operating company as a front for attorney-of-record status, legal advice, legal representation, professional judgment, or trust-money control.
 
 Done when one jurisdiction has a verified counsel-coverage record, an auditable intake-to-separate-engagement workflow, tested nonlawyer/agent protected actions, legal-matter launch-gate evidence, and a learning retrospective using synthetic or internal scenarios.
+
+## Parallel Track G — Construction Management Startup Operating System
+
+Establish a human-governed construction-management coordination and project-information model that supports explicit owner, contractor, project, site/safety, permit/inspection, quality, financial, and closeout responsibilities. Begin with one bounded Company Zero project using a baseline, change-control record, evidence ledger, protected agent actions, and launch-gate evidence. Do not present the platform as a licensed contractor, construction manager at risk, design professional, inspector, safety authority, payment custodian, or warrantor without a separately authorized and professionally reviewed operating path.
+
+Done when one selected project demonstrates an explicit authority matrix, baseline/change control, evidence distinction, tested platform/agent action blocks, issue/punch resolution record, closeout packet, and learning retrospective.

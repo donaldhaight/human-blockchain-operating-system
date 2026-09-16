@@ -51,6 +51,7 @@ The repository contains an Open Knowledge Format bundle, Docusaurus documentatio
 - A human-governed Venture Studio and Investment-Readiness Incubator planning track with capital and conflict controls
 - A human-governed InsurTech Startup Operating System planning track with jurisdiction, authority, data, and launch controls
 - A human-governed Legal Services and Jurisdictional Attorney Network planning track with counsel independence, client-choice, and professional-boundary controls
+- A human-governed Construction Management Startup Operating System planning track with project authority, safety, quality, financial, and launch controls
 
 ## What is not complete
 
@@ -64,6 +65,7 @@ The repository contains an Open Knowledge Format bundle, Docusaurus documentatio
 - The Agent Company Operating System and Venture Studio tracks have not yet completed their first Company Zero delivery-loop proof.
 - The InsurTech track has not yet selected its pilot jurisdiction, product posture, data basis, or first bounded workflow proof.
 - The legal-services track has not selected an initial jurisdiction, client/matter posture, attorney-network model, data basis, or internal legal-readiness proof.
+- The construction-management track has not selected its project posture, jurisdiction, owner/contract/responsibility map, safety authority, data basis, or first bounded project proof.
 
 ## Current interpretation of the corpus
 

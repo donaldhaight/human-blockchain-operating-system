@@ -78,6 +78,7 @@ The package is generated from one shared operating model. Documents are audience
 | E07 | Venture Studio and Incubator Operating System | Founder working draft; Company Zero proof and founder decisions pending |
 | E08 | InsurTech Startup Operating System | Founder working draft; jurisdiction, pilot, data, and compliance decisions pending |
 | E09 | Legal Services and Jurisdictional Attorney Network Operating System | Founder working draft; independent-counsel, jurisdiction, entity, data, and professional-review decisions pending |
+| E10 | Construction Management Startup Operating System | Founder working draft; project posture, jurisdiction, contract/responsibility map, safety, and pilot decisions pending |
 
 ## Production rule
 
