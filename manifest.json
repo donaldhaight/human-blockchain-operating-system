@@ -1,7 +1,7 @@
 {
   "okf_version": "0.2",
   "bundle_id": "human-blockchain-okf-001",
-  "generated_at": "2026-08-16T17:01:12.959Z",
+  "generated_at": "2026-09-16T21:05:30.132Z",
   "files": [
     {
       "path": "README.md",
@@ -359,8 +359,77 @@
       "type": "extracted-knowledge-artifact",
       "status": "working-draft",
       "source_id": "SRC-010"
+    },
+    {
+      "path": "docs/00-start-here/operating-model-instruction-manual.md",
+      "type": "operating-instruction-manual",
+      "status": "active-working"
+    },
+    {
+      "path": "docs/50-execution/agent-company-operating-system.md",
+      "type": "agent-company-operating-plan",
+      "status": "founder-working-draft"
+    },
+    {
+      "path": "docs/50-execution/venture-studio-incubator-operating-system.md",
+      "type": "venture-studio-incubator-operating-plan",
+      "status": "founder-working-draft"
+    },
+    {
+      "path": "docs/50-execution/venture-card-template.md",
+      "type": "venture-portfolio-template",
+      "status": "active-template"
+    },
+    {
+      "path": "docs/50-execution/insurtech-startup-operating-system.md",
+      "type": "insurtech-startup-operating-plan",
+      "status": "founder-working-draft"
+    },
+    {
+      "path": "docs/50-execution/insurtech-pilot-launch-gate-template.md",
+      "type": "insurtech-launch-gate-template",
+      "status": "active-template"
+    },
+    {
+      "path": "docs/50-execution/legal-services-attorney-network-operating-system.md",
+      "type": "legal-services-attorney-network-operating-plan",
+      "status": "founder-working-draft"
+    },
+    {
+      "path": "docs/50-execution/legal-matter-jurisdictional-launch-gate-template.md",
+      "type": "legal-services-launch-gate-template",
+      "status": "active-template"
+    },
+    {
+      "path": "docs/50-execution/construction-management-startup-operating-system.md",
+      "type": "construction-management-operating-plan",
+      "status": "founder-working-draft"
+    },
+    {
+      "path": "docs/50-execution/construction-management-pilot-launch-gate-template.md",
+      "type": "construction-management-launch-gate-template",
+      "status": "active-template"
+    },
+    {
+      "path": "sources/narratives/pasted-content-38-2026-09-16.txt",
+      "type": "preserved-source",
+      "status": "preserved-owner-provided-current-session",
+      "source_id": "SRC-012",
+      "sha256": "545862aedca477799818abfab2efb0f011a44eefe97a256166274590ed735f40"
+    },
+    {
+      "path": "docs/50-execution/portfolio-underwriting-operating-system.md",
+      "type": "portfolio-underwriting-operating-plan",
+      "status": "founder-working-draft",
+      "source_id": "SRC-012"
+    },
+    {
+      "path": "docs/50-execution/underwriting-experiment-card-template.md",
+      "type": "portfolio-underwriting-template",
+      "status": "active-template",
+      "source_id": "SRC-012"
     }
   ],
-  "source_count": 2,
+  "source_count": 3,
   "extracted_artifact_count": 33
 }

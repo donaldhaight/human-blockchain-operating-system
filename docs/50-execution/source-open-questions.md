@@ -1898,13 +1898,856 @@ Legal Review Agent
 Sponsor Package Agent
 Kimosabe Coordinator Agent
 ```
-
 ---
+## Q213 — Which business line should carry the Agent Company Operating System?
+Category:
+```text
+FOUNDER
+STRATEGY
+AGENT
+```
+Priority:
+```text
+P1
+```
+Status:
+```text
+NEEDS_FOUNDER_DECISION
+```
+Why It Matters:
 
+The operating system needs a clear owner, naming context, and record boundary. Candidate treatments are Market Applications, an internal Human Blockchain operating capability, or another defined USA LLC business line.
+
+Related Documents:
+```text
+Agent Company Operating System
+Master Continuity Brief
+Decision Register
+```
+---
+## Q214 — Is the first Agent Company objective internal proof or an external software/services offering?
+Category:
+```text
+FOUNDER
+STRATEGY
+OPERATIONS
+```
+Priority:
+```text
+P1
+```
+Status:
+```text
+NEEDS_FOUNDER_DECISION
+```
+Why It Matters:
+
+An internal Company Zero proof keeps scope and legal exposure low. An external offering adds customer, contract, data, support, and commercial requirements.
+
+Related Documents:
+```text
+Agent Company Operating System
+Season 1 Operating Plan
+Risks and Review Gates
+```
+---
+## Q215 — Which bounded RRCA / ClaimStore delivery loop should be proved first?
+Category:
+```text
+FOUNDER
+PRODUCT
+SEASON_1
+AGENT
+```
+Priority:
+```text
+P0
+```
+Status:
+```text
+NEEDS_FOUNDER_DECISION
+```
+Why It Matters:
+
+The first loop defines the practical test of the agent-company model. It must be narrow, useful to RRCA, measurable, reversible, and representative of the Lead-to-Done architecture.
+
+Potential Decision Path:
+```text
+Select one capability with a named user, workflow, acceptance test, source basis, and release owner.
+```
+---
+## Q216 — Which initial operating model should Company Zero test first?
+Category:
+```text
+FOUNDER
+TECHNICAL
+AGENT
+```
+Priority:
+```text
+P1
+```
+Status:
+```text
+NEEDS_FOUNDER_DECISION
+```
+Why It Matters:
+
+The team can initially use a human-guided repository and workspace or invest immediately in a dedicated company control-plane application. The first option reduces setup and maximizes learning; the second increases repeatability but adds build and governance burden.
+
+Related Documents:
+```text
+Agent Company Operating System
+Master Roadmap
+Developer and Agent Handoff Package
+```
+---
+## Q217 — Which legal/business line should operate the initial venture studio and incubator function?
+Category:
+```text
+FOUNDER
+STRATEGY
+LEGAL
+```
+Priority:
+```text
+P1
+```
+Status:
+```text
+NEEDS_FOUNDER_DECISION
+```
+Why It Matters:
+
+The studio needs a clear accountable entity and scope. Candidate treatments include USA LLC, Market Applications, another current business line, or a later separately formed entity. A chosen label does not itself resolve entity, liability, ownership, tax, or securities requirements.
+
+Related Documents:
+```text
+Venture Studio and Incubator Operating System
+Master Continuity Brief
+Risks and Review Gates
+```
+---
+## Q218 — Does the first venture-studio phase serve only the internal portfolio or also an invited external founder cohort?
+Category:
+```text
+FOUNDER
+STRATEGY
+OPERATIONS
+```
+Priority:
+```text
+P1
+```
+Status:
+```text
+NEEDS_FOUNDER_DECISION
+```
+Why It Matters:
+
+An internal studio validates the method under existing authority and data boundaries. External participation adds selection, terms, IP, privacy, support, marketing, program, and potentially securities issues.
+
+Related Documents:
+```text
+Venture Studio and Incubator Operating System
+Agent Company Operating System
+Risks and Review Gates
+```
+---
+## Q219 — Which three venture candidates should receive the first Venture Cards after Company Zero?
+Category:
+```text
+FOUNDER
+STRATEGY
+PORTFOLIO
+```
+Priority:
+```text
+P1
+```
+Status:
+```text
+NEEDS_FOUNDER_DECISION
+```
+Why It Matters:
+
+The selection defines the initial portfolio and must be deliberate. Each candidate should be scored for founder conviction, customer access, evidence base, strategic fit, buildability, capital need, time horizon, risk, and relationship to the shared operating system.
+
+Related Documents:
+```text
+Venture Card Template
+Venture Studio and Incubator Operating System
+Master Roadmap
+```
+---
+## Q220 — What capital posture is intended for the first twelve months of the venture studio?
+Category:
+```text
+FOUNDER
+STRATEGY
+LEGAL
+FINANCE
+```
+Priority:
+```text
+P0
+```
+Status:
+```text
+NEEDS_FOUNDER_DECISION
+```
+Why It Matters:
+
+Founder-funded internal operations, service-funded work, sponsor/research-supported activity, and a future professionally designed capital pathway have different governance, timing, disclosure, entity, tax, and regulatory consequences.
+
+Related Documents:
+```text
+Venture Studio and Incubator Operating System
+Founding Sponsor Position Book
+Risks and Review Gates
+```
+---
+## Q221 — Is the first InsurTech product limited to insurance-adjacent workflow and evidence software, or is a regulated function intended from the beginning?
+Category:
+```text
+FOUNDER
+PRODUCT
+LEGAL
+```
+Priority:
+```text
+P0
+```
+Status:
+```text
+NEEDS_FOUNDER_DECISION
+```
+Why It Matters:
+
+The selected posture determines required entity, licensing, agreements, product claims, agent limits, data handling, supervision, launch gates, and professional review. The recommended starting posture is insurance-adjacent workflow and evidence software only.
+
+Related Documents:
+```text
+InsurTech Startup Operating System
+Legal Architecture To Be Vetted
+Risks and Review Gates
+```
+---
+## Q222 — Which jurisdiction and RRCA / ClaimStore operating market should host the first InsurTech pilot?
+Category:
+```text
+FOUNDER
+SEASON_1
+LEGAL
+OPERATIONS
+```
+Priority:
+```text
+P0
+```
+Status:
+```text
+NEEDS_FOUNDER_DECISION
+```
+Why It Matters:
+
+Insurance, adjusting, contractor, privacy, electronic-signature, consumer-protection, and related obligations vary by jurisdiction. A real pilot needs one named geographic scope before the product and review gates can be completed.
+
+Related Documents:
+```text
+InsurTech Startup Operating System
+Phase 1 Product Requirements Document
+Legal Architecture To Be Vetted
+```
+---
+## Q223 — What data basis should the first InsurTech proof use?
+Category:
+```text
+FOUNDER
+DATA_MODEL
+LEGAL
+SECURITY
+```
+Priority:
+```text
+P0
+```
+Status:
+```text
+NEEDS_FOUNDER_DECISION
+```
+Why It Matters:
+
+Synthetic records enable rapid workflow testing. Consented real records add operational learning but require a documented lawful or contractual basis, user notice, access controls, retention, and incident handling. A staged synthetic-then-consented approach is a viable default.
+
+Related Documents:
+```text
+InsurTech Startup Operating System
+Legal Architecture To Be Vetted
+Data Model Master Specification
+```
+---
+## Q224 — Should the first release record external insurance determinations only, or prepare for an approved participating carrier/partner integration?
+Category:
+```text
+FOUNDER
+PRODUCT
+TECHNICAL
+LEGAL
+```
+Priority:
+```text
+P1
+```
+Status:
+```text
+NEEDS_FOUNDER_DECISION
+```
+Why It Matters:
+
+External-determination recording is lower complexity and can prove the accountability model. A direct integration requires a named partner, data/authority basis, technical interface agreement, security testing, and rollback path.
+
+Related Documents:
+```text
+InsurTech Startup Operating System
+Insurance Determination and Claim Caller Addendum
+ClaimExpress Protocol Specification
+```
+---
+## Q225 — Who is the named human owner for the first InsurTech compliance queue and no-go decision?
+Category:
+```text
+FOUNDER
+OPERATIONS
+LEGAL
+AGENT
+```
+Priority:
+```text
+P0
+```
+Status:
+```text
+NEEDS_FOUNDER_DECISION
+```
+Why It Matters:
+
+Agents may prepare records and escalate gaps, but the company needs a responsible human to own professional-review coordination, open-issue treatment, readiness evidence, and the decision to hold or stop a pilot.
+
+Related Documents:
+```text
+InsurTech Startup Operating System
+InsurTech Pilot Launch-Gate Template
+Risks and Review Gates
+```
+---
+## Q226 — Which single user-directed claim/project workflow should constitute the first InsurTech Company Zero proof?
+Category:
+```text
+FOUNDER
+PRODUCT
+SEASON_1
+AGENT
+```
+Priority:
+```text
+P0
+```
+Status:
+```text
+NEEDS_FOUNDER_DECISION
+```
+Why It Matters:
+
+The first proof must be small enough to secure and test, yet complete enough to establish consent, evidence, authority, external-determination recording, exception handling, and learning. It should not require unapproved coverage, payment, or claims-administration authority.
+
+Potential Decision Path:
+```text
+Choose one workflow with a named user, jurisdiction, data basis, permitted platform role, acceptance tests, release owner, and retrospective measure.
+```
+---
+## Q227 — Is the first legal-services version internal legal-readiness infrastructure or a limited external attorney-network pilot after professional review?
+Category:
+```text
+FOUNDER
+STRATEGY
+LEGAL
+OPERATIONS
+```
+Priority:
+```text
+P0
+```
+Status:
+```text
+NEEDS_FOUNDER_DECISION
+```
+Why It Matters:
+
+Internal legal-readiness work can prove the coverage record, confidentiality, and agent blocks without presenting services to clients. An external network adds professional-entity, attorney verification, conflicts, engagement, advertising, client-choice, fee, privacy, and jurisdiction requirements.
+
+Related Documents:
+```text
+Legal Services and Jurisdictional Attorney Network Operating System
+Legal Matter and Jurisdictional Launch-Gate Template
+Risks and Review Gates
+```
+---
+## Q228 — Which state and forum/venue context should govern the first jurisdictional attorney-network review?
+Category:
+```text
+FOUNDER
+LEGAL
+SEASON_1
+OPERATIONS
+```
+Priority:
+```text
+P0
+```
+Status:
+```text
+NEEDS_FOUNDER_DECISION
+```
+Why It Matters:
+
+Professional responsibility, legal-service entity rules, advertising, referral/fee arrangements, data handling, court practice, insurance regulation, and reciprocal structures depend on the relevant jurisdiction. County or venue capability should not be described as a platform-issued legal license.
+
+Related Documents:
+```text
+Legal Services and Jurisdictional Attorney Network Operating System
+Legal Architecture To Be Vetted
+InsurTech Startup Operating System
+```
+---
+## Q229 — Who is the intended client for the first legal matter or legal-readiness work?
+Category:
+```text
+FOUNDER
+LEGAL
+GOVERNANCE
+```
+Priority:
+```text
+P0
+```
+Status:
+```text
+NEEDS_FOUNDER_DECISION
+```
+Why It Matters:
+
+A property owner, contractor, RRCA, USA LLC, prospective reciprocal/attorney-in-fact entity, InsurTech platform, and DAO may have different interests. The client must be identified before legal advice, privilege, conflict analysis, engagement, data access, or representation can be discussed.
+
+Related Documents:
+```text
+Legal Services and Jurisdictional Attorney Network Operating System
+Legal Architecture To Be Vetted
+Risks and Review Gates
+```
+---
+## Q230 — What attorney-network structure should be tested first?
+Category:
+```text
+FOUNDER
+LEGAL
+STRATEGY
+GOVERNANCE
+```
+Priority:
+```text
+P1
+```
+Status:
+```text
+NEEDS_FOUNDER_DECISION
+```
+Why It Matters:
+
+The initial alternatives are an independent attorney/firm coordination network, a future lawyer-controlled professional entity, or a DAO-supported standards/community layer that performs no legal representation. They differ materially in professional control, economics, data, governance, and regulatory constraints.
+
+Related Documents:
+```text
+Legal Services and Jurisdictional Attorney Network Operating System
+Venture Studio and Incubator Operating System
+Risks and Review Gates
+```
+---
+## Q231 — Is a reciprocal insurance exchange an exploratory future venture or an active formation objective?
+Category:
+```text
+FOUNDER
+INSURANCE
+LEGAL
+STRATEGY
+```
+Priority:
+```text
+P0
+```
+Status:
+```text
+NEEDS_FOUNDER_DECISION
+```
+Why It Matters:
+
+An attorney-in-fact can be an insurance-management role in a reciprocal structure, but it is not the same as an attorney-at-law or attorney of record. Active formation changes the required insurance-regulatory, capitalization, governance, contracts, client/entity, and professional-review work.
+
+Related Documents:
+```text
+Legal Services and Jurisdictional Attorney Network Operating System
+InsurTech Startup Operating System
+Risks and Review Gates
+```
+---
+## Q232 — What data basis may the legal-services readiness proof use?
+Category:
+```text
+FOUNDER
+LEGAL
+DATA_MODEL
+SECURITY
+```
+Priority:
+```text
+P0
+```
+Status:
+```text
+NEEDS_FOUNDER_DECISION
+```
+Why It Matters:
+
+Synthetic/internal scenarios provide the lowest-risk method to test routing, coverage records, permissions, and agent blocks. Real intake or matter data requires carefully defined client, engagement, notice, authorization, confidentiality, privilege, processor, retention, and incident controls.
+
+Related Documents:
+```text
+Legal Matter and Jurisdictional Launch-Gate Template
+Legal Services and Jurisdictional Attorney Network Operating System
+Risks and Review Gates
+```
+---
+## Q233 — Is the first construction-management product coordination software only, owner-authorized support, or a future licensed construction operation?
+Category:
+```text
+FOUNDER
+PRODUCT
+LEGAL
+OPERATIONS
+```
+Priority:
+```text
+P0
+```
+Status:
+```text
+NEEDS_FOUNDER_DECISION
+```
+Why It Matters:
+
+The operating posture determines contractual scope, licensing, insurance, safety, staffing, permits, payment, warranty, product claims, and the platform/agent authority boundary. The recommended starting posture is coordination and project-information software only.
+
+Related Documents:
+```text
+Construction Management Startup Operating System
+Legal Architecture To Be Vetted
+Risks and Review Gates
+```
+---
+## Q234 — Which state/market and project type should host the first construction-management Company Zero pilot?
+Category:
+```text
+FOUNDER
+SEASON_1
+LEGAL
+OPERATIONS
+```
+Priority:
+```text
+P0
+```
+Status:
+```text
+NEEDS_FOUNDER_DECISION
+```
+Why It Matters:
+
+Contractor, construction-management, permit, inspection, safety, consumer-protection, lien, payment, and data rules vary by jurisdiction and project type. A first pilot needs a bounded geographic and construction scope before responsible-party controls can be completed.
+
+Related Documents:
+```text
+Construction Management Startup Operating System
+Season 1 Operating Plan and Roadmap
+Phase 1 Product Requirements Document
+```
+---
+## Q235 — Who is the customer, who contracts with the property owner, and who owns each construction responsibility for the first pilot?
+Category:
+```text
+FOUNDER
+OPERATIONS
+LEGAL
+CONSTRUCTION
+```
+Priority:
+```text
+P0
+```
+Status:
+```text
+NEEDS_FOUNDER_DECISION
+```
+Why It Matters:
+
+The system must identify the property owner, licensed contractor, project lead, site/safety owner, permit/inspection responsibility, quality responsibility, warranty issuer, payment authority, and escalation path. Coordination software cannot silently absorb those roles.
+
+Related Documents:
+```text
+Construction Management Startup Operating System
+Construction Management Pilot Launch-Gate Template
+Legal Architecture To Be Vetted
+```
+---
+## Q236 — Which named person or entity controls site safety and the emergency/escalation path for the first pilot?
+Category:
+```text
+FOUNDER
+OPERATIONS
+LEGAL
+SAFETY
+```
+Priority:
+```text
+P0
+```
+Status:
+```text
+NEEDS_FOUNDER_DECISION
+```
+Why It Matters:
+
+The platform can record issues and notify responsible parties, but it cannot become a safety authority through automation. Site control and safety responsibility must be real, named, contractually/operationally supported, and reachable through a tested escalation path.
+
+Related Documents:
+```text
+Construction Management Startup Operating System
+Construction Management Pilot Launch-Gate Template
+Professional Participant Agreement Review
+```
+---
+## Q237 — What data basis may the construction-management proof use?
+Category:
+```text
+FOUNDER
+DATA_MODEL
+LEGAL
+SECURITY
+```
+Priority:
+```text
+P0
+```
+Status:
+```text
+NEEDS_FOUNDER_DECISION
+```
+Why It Matters:
+
+Synthetic records can test the authority, scope, schedule, change, evidence, and closeout model. Authorized real project records add operating learning but require a documented access basis, consent, contractor/owner expectations, retention, confidentiality, and incident controls.
+
+Related Documents:
+```text
+Construction Management Startup Operating System
+Construction Management Pilot Launch-Gate Template
+Risks and Review Gates
+```
+---
+## Q238 — Which single construction-management workflow should be proved first?
+Category:
+```text
+FOUNDER
+PRODUCT
+SEASON_1
+AGENT
+```
+Priority:
+```text
+P0
+```
+Status:
+```text
+NEEDS_FOUNDER_DECISION
+```
+Why It Matters:
+
+The first loop must be narrow enough to test permissions and responsibility, yet useful enough to prove project value. Candidate paths include scope-to-baseline, job/order coordination, change control, field evidence, punch/quality correction, and completion/closeout.
+
+Potential Decision Path:
+```text
+Choose one workflow with a named project, jurisdiction, customer, contract/responsibility map, data basis, acceptance tests, release owner, and retrospective measure.
+```
+---
+## Q239 — Which five portfolio assertions should receive the first Assertion Records and Underwriting Experiment Cards?
+Category:
+```text
+FOUNDER
+STRATEGY
+PORTFOLIO
+UNDERWRITING
+```
+Priority:
+```text
+P0
+```
+Status:
+```text
+NEEDS_FOUNDER_DECISION
+```
+Why It Matters:
+
+The portfolio should not be treated as a set of equally proven companies or claims. Selecting the first assertions creates the practical underwriting queue and prevents the story from outrunning evidence.
+
+Related Documents:
+```text
+Portfolio Underwriting Operating System
+Underwriting Experiment Card Template
+Venture Studio and Incubator Operating System
+```
+---
+## Q240 — What evidence types can move an assertion away from zero?
+Category:
+```text
+FOUNDER
+EVIDENCE
+DASHBOARD
+UNDERWRITING
+```
+Priority:
+```text
+P0
+```
+Status:
+```text
+NEEDS_FOUNDER_DECISION
+```
+Why It Matters:
+
+Repeated model agreement, founder conviction, simulation, customer action, revenue, signed terms, independent reproduction, and contradictory evidence should not receive the same weight. The evidence policy determines how the dashboard underwrites the plan.
+
+Related Documents:
+```text
+Portfolio Underwriting Operating System
+Assumptions and Variables
+Quantum Dashboard Underwriting Model
+```
+---
+## Q241 — Should the first confidence model remain qualitative or become numerical later?
+Category:
+```text
+FOUNDER
+DASHBOARD
+UNDERWRITING
+PRODUCT
+```
+Priority:
+```text
+P1
+```
+Status:
+```text
+OPEN
+```
+Why It Matters:
+
+A qualitative model reduces false precision during the first experiments. A numerical method may become useful after evidence categories and review standards are stable.
+
+Potential Decision Path:
+```text
+Use qualitative states first: untested, explored, supported, contradicted, decision-ready. Defer numerical confidence until after several completed experiments.
+```
+---
+## Q242 — Which stakeholder views are essential for the first roofing/restoration experiment?
+Category:
+```text
+FOUNDER
+STAKEHOLDER
+PRODUCT
+DASHBOARD
+```
+Priority:
+```text
+P0
+```
+Status:
+```text
+NEEDS_FOUNDER_DECISION
+```
+Why It Matters:
+
+One fact base can support different views for property owner, licensed contractor, ISR, ClaimBuddy, sponsor, investor, platform admin, or legal/compliance reviewer. The first experiment must decide who sees what and why.
+
+Related Documents:
+```text
+Portfolio Underwriting Operating System
+Phase 1 Product Requirements Document
+Construction Management Startup Operating System
+InsurTech Startup Operating System
+```
+---
+## Q243 — Which reusable commercial object should be tested first?
+Category:
+```text
+FOUNDER
+BUSINESS_MODEL
+FINANCE
+UNDERWRITING
+```
+Priority:
+```text
+P0
+```
+Status:
+```text
+NEEDS_FOUNDER_DECISION
+```
+Why It Matters:
+
+Memberships, courses, events, sponsorships, seats, territories, stakeholder licenses, role licenses, lead fees, win fees, transaction fees, revenue shares, SaaS, professional services, and media/IP rights create different legal, tax, accounting, securities, referral, insurance, and construction consequences.
+
+Related Documents:
+```text
+Portfolio Underwriting Operating System
+Venture Studio and Incubator Operating System
+Risks and Review Gates
+```
+---
+## Q244 — What observed event, normalized fact, attribution claim, and settlement decision should be modeled first?
+Category:
+```text
+FOUNDER
+DATA_MODEL
+BOOKKEEPING
+UNDERWRITING
+```
+Priority:
+```text
+P0
+```
+Status:
+```text
+NEEDS_FOUNDER_DECISION
+```
+Why It Matters:
+
+The prior-session narrative distinguishes origin from compensation. Modeling the first example will prove that the ledger can preserve contribution without automatically creating a payment, ownership, or settlement entitlement.
+
+Potential Decision Path:
+```text
+Begin with one ordinary lead/project attribution scenario and keep compensation blocked until agreement, authority, accounting, and sector review are present.
+```
+---
 # 16. Open Question Review Cadence
-
 Questions should be reviewed:
-
 ```text
 Weekly during repository creation
 Weekly during MVP build

@@ -117,3 +117,38 @@ Inventory the existing GitHub repositories before rebuilding similar systems. Ca
 
 Done when every repository has a one-page evidence card and the portfolio has a reuse and recovery map.
 
+## Parallel Track C — Agent Company Operating System
+
+Establish the human-governed planning and delivery system that allows Market Applications and related business lines to convert founder intent into traceable software work. Begin with a repository-based Company Zero model: objectives, requirements, decisions, questions, risks, work items, agent briefs, quality checks, approvals, release evidence, and retrospectives. Do not build a general control-plane product before one bounded RRCA / ClaimStore delivery loop demonstrates which coordination bottlenecks merit software investment.
+
+Done when one approved internal software increment can be traced from objective through requirement, implementation, independent validation, accountable human approval, release evidence, and an updated learning record.
+
+## Parallel Track D — Venture Studio and Investment-Readiness Incubator
+
+Establish a human-governed venture-studio operating model that turns the existing portfolio into evidence-led Venture Cards, discovery briefs, prototypes, controlled pilots, diligence packets, and launch-readiness decisions. Begin as an internal studio and investment-readiness function. Do not represent the program as a fund, broker, investment adviser, securities marketplace, or capital vehicle until a separately authorized and professionally reviewed structure is selected.
+
+Done when the RRCA / ClaimStore Company Zero proof has produced a complete venture record and the founder has selected the first three venture candidates for documented discovery review.
+
+## Parallel Track E — InsurTech Startup Operating System
+
+Establish a human-governed, insurance-adjacent software operating model that supports user-directed documentation, evidence, claim/project workflow, and accountable external-determination recording. Begin with a single-jurisdiction Company Zero pilot using synthetic or consented data, explicit authority boundaries, protected agent actions, and launch-gate evidence. Do not present the platform as an insurer, agency, producer, adjuster, claims administrator, escrow provider, payment institution, or fiduciary without a separately authorized and professionally reviewed operating path.
+
+Done when one selected RRCA / ClaimStore workflow demonstrates role-specific consent, evidence integrity, denied prohibited actions, reviewable external-determination recording, tested privacy/security boundaries, a release packet, and a learning retrospective.
+
+## Parallel Track F — Legal Services and Jurisdictional Attorney Network
+
+Establish a human-governed legal-readiness and jurisdictional-attorney network that coordinates independently qualified counsel without assuming the practice of law. Begin with verified coverage records, separate-engagement controls, client-choice disclosures, matter-data boundaries, agent action blocks, and a single-jurisdiction internal readiness proof. Do not use a DAO, platform, reciprocal attorney-in-fact, or operating company as a front for attorney-of-record status, legal advice, legal representation, professional judgment, or trust-money control.
+
+Done when one jurisdiction has a verified counsel-coverage record, an auditable intake-to-separate-engagement workflow, tested nonlawyer/agent protected actions, legal-matter launch-gate evidence, and a learning retrospective using synthetic or internal scenarios.
+
+## Parallel Track G — Construction Management Startup Operating System
+
+Establish a human-governed construction-management coordination and project-information model that supports explicit owner, contractor, project, site/safety, permit/inspection, quality, financial, and closeout responsibilities. Begin with one bounded Company Zero project using a baseline, change-control record, evidence ledger, protected agent actions, and launch-gate evidence. Do not present the platform as a licensed contractor, construction manager at risk, design professional, inspector, safety authority, payment custodian, or warrantor without a separately authorized and professionally reviewed operating path.
+
+Done when one selected project demonstrates an explicit authority matrix, baseline/change control, evidence distinction, tested platform/agent action blocks, issue/punch resolution record, closeout packet, and learning retrospective.
+
+## Parallel Track H — Portfolio Underwriting Operating System
+
+Establish the shared learning and decision layer for all ventures, sectors, providers, stakeholder views, and commercial objects. Start every material assertion at zero. Preserve sources, assertions, simulations, open questions, observed results, counterevidence, and decisions as distinct records. Begin with five Assertion Records and one bounded roofing/restoration Underwriting Experiment Card. Do not treat a model, score, narrative, or attribution claim as a fact, a compensation entitlement, or a protected decision without explicit evidence, authority, agreement, and the applicable sector gate.
+
+Done when the first experiment produces a traceable hypothesis, scope, stakeholder-view map, evidence/counterevidence record, human decision, and retrospective that updates the appropriate source, requirement, assumption, risk, decision, and backlog records.
