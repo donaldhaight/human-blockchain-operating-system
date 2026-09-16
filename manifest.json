@@ -1,7 +1,7 @@
 {
   "okf_version": "0.2",
   "bundle_id": "human-blockchain-okf-001",
-  "generated_at": "2026-09-16T19:48:52.906Z",
+  "generated_at": "2026-09-16T19:50:29.960Z",
   "files": [
     {
       "path": "README.md",
@@ -359,6 +359,16 @@
       "type": "extracted-knowledge-artifact",
       "status": "working-draft",
       "source_id": "SRC-010"
+    },
+    {
+      "path": "docs/00-start-here/operating-model-instruction-manual.md",
+      "type": "operating-instruction-manual",
+      "status": "active-working"
+    },
+    {
+      "path": "docs/50-execution/agent-company-operating-system.md",
+      "type": "agent-company-operating-plan",
+      "status": "founder-working-draft"
     },
     {
       "path": "docs/50-execution/venture-studio-incubator-operating-system.md",

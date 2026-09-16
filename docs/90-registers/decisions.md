@@ -17,5 +17,5 @@ status: active-register
 | DEC-007 | Treat the corpus as production fuel and evidence, not immutable canon | Current | Founder |
 | DEC-008 | Build one complete RRCA Lead-to-Done loop before scaling | Current recommendation | Founder accepted direction |
 | DEC-009 | Use the OKF bundle as both agent knowledge package and Docusaurus content source | Current | Founder accepted direction |
-| DEC-010 | Develop the Agent Company Operating System as a human-governed planning and delivery track; validate it through one bounded internal delivery loop before treating it as a reusable platform | Current working direction | Founder; implementation and architecture selection pending |
+| DEC-010 | Maintain an Agent Company Operating System as a human-governed planning and delivery track; validate it through one bounded internal delivery loop before treating it as a reusable platform | Current working direction | Founder; implementation and architecture selection pending |
 | DEC-011 | Frame the proposed startup/private-equity-incubator capability initially as a human-governed venture studio and investment-readiness incubator, not an autonomous fund, broker, investment adviser, or securities marketplace | Current working direction | Founder; legal, capital, and entity design pending |

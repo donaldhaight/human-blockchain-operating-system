@@ -1865,7 +1865,9 @@ Update decision log.
 ---
 
 ## Q212 — Which AI agents are needed first?
+
 Category:
+
 ```text
 AGENT
 OPERATIONS
