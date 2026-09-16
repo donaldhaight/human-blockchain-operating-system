@@ -128,3 +128,9 @@ Done when one approved internal software increment can be traced from objective 
 Establish a human-governed venture-studio operating model that turns the existing portfolio into evidence-led Venture Cards, discovery briefs, prototypes, controlled pilots, diligence packets, and launch-readiness decisions. Begin as an internal studio and investment-readiness function. Do not represent the program as a fund, broker, investment adviser, securities marketplace, or capital vehicle until a separately authorized and professionally reviewed structure is selected.
 
 Done when the RRCA / ClaimStore Company Zero proof has produced a complete venture record and the founder has selected the first three venture candidates for documented discovery review.
+
+## Parallel Track E — InsurTech Startup Operating System
+
+Establish a human-governed, insurance-adjacent software operating model that supports user-directed documentation, evidence, claim/project workflow, and accountable external-determination recording. Begin with a single-jurisdiction Company Zero pilot using synthetic or consented data, explicit authority boundaries, protected agent actions, and launch-gate evidence. Do not present the platform as an insurer, agency, producer, adjuster, claims administrator, escrow provider, payment institution, or fiduciary without a separately authorized and professionally reviewed operating path.
+
+Done when one selected RRCA / ClaimStore workflow demonstrates role-specific consent, evidence integrity, denied prohibited actions, reviewable external-determination recording, tested privacy/security boundaries, a release packet, and a learning retrospective.

@@ -49,6 +49,7 @@ The repository contains an Open Knowledge Format bundle, Docusaurus documentatio
 - A living instruction manual and Agent Company Operating System planning track with explicit human authority boundaries
 - Clean dependency installation, OKF validation, and local Docusaurus production build verified on 2026-09-15
 - A human-governed Venture Studio and Investment-Readiness Incubator planning track with capital and conflict controls
+- A human-governed InsurTech Startup Operating System planning track with jurisdiction, authority, data, and launch controls
 
 ## What is not complete
 
@@ -60,6 +61,7 @@ The repository contains an Open Knowledge Format bundle, Docusaurus documentatio
 - The 33 existing GitHub repositories have not been systematically inventoried.
 - The Phase Zero platform and domain lead-machine portfolio have not been generated from this foundation.
 - The Agent Company Operating System and Venture Studio tracks have not yet completed their first Company Zero delivery-loop proof.
+- The InsurTech track has not yet selected its pilot jurisdiction, product posture, data basis, or first bounded workflow proof.
 
 ## Current interpretation of the corpus
 

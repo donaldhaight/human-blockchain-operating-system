@@ -1,7 +1,7 @@
 {
   "okf_version": "0.2",
   "bundle_id": "human-blockchain-okf-001",
-  "generated_at": "2026-09-16T19:50:29.960Z",
+  "generated_at": "2026-09-16T20:22:42.666Z",
   "files": [
     {
       "path": "README.md",
@@ -378,6 +378,16 @@
     {
       "path": "docs/50-execution/venture-card-template.md",
       "type": "venture-portfolio-template",
+      "status": "active-template"
+    },
+    {
+      "path": "docs/50-execution/insurtech-startup-operating-system.md",
+      "type": "insurtech-startup-operating-plan",
+      "status": "founder-working-draft"
+    },
+    {
+      "path": "docs/50-execution/insurtech-pilot-launch-gate-template.md",
+      "type": "insurtech-launch-gate-template",
       "status": "active-template"
     }
   ],

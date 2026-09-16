@@ -2107,6 +2107,165 @@ Founding Sponsor Position Book
 Risks and Review Gates
 ```
 ---
+## Q221 — Is the first InsurTech product limited to insurance-adjacent workflow and evidence software, or is a regulated function intended from the beginning?
+Category:
+```text
+FOUNDER
+PRODUCT
+LEGAL
+```
+Priority:
+```text
+P0
+```
+Status:
+```text
+NEEDS_FOUNDER_DECISION
+```
+Why It Matters:
+
+The selected posture determines required entity, licensing, agreements, product claims, agent limits, data handling, supervision, launch gates, and professional review. The recommended starting posture is insurance-adjacent workflow and evidence software only.
+
+Related Documents:
+```text
+InsurTech Startup Operating System
+Legal Architecture To Be Vetted
+Risks and Review Gates
+```
+---
+## Q222 — Which jurisdiction and RRCA / ClaimStore operating market should host the first InsurTech pilot?
+Category:
+```text
+FOUNDER
+SEASON_1
+LEGAL
+OPERATIONS
+```
+Priority:
+```text
+P0
+```
+Status:
+```text
+NEEDS_FOUNDER_DECISION
+```
+Why It Matters:
+
+Insurance, adjusting, contractor, privacy, electronic-signature, consumer-protection, and related obligations vary by jurisdiction. A real pilot needs one named geographic scope before the product and review gates can be completed.
+
+Related Documents:
+```text
+InsurTech Startup Operating System
+Phase 1 Product Requirements Document
+Legal Architecture To Be Vetted
+```
+---
+## Q223 — What data basis should the first InsurTech proof use?
+Category:
+```text
+FOUNDER
+DATA_MODEL
+LEGAL
+SECURITY
+```
+Priority:
+```text
+P0
+```
+Status:
+```text
+NEEDS_FOUNDER_DECISION
+```
+Why It Matters:
+
+Synthetic records enable rapid workflow testing. Consented real records add operational learning but require a documented lawful or contractual basis, user notice, access controls, retention, and incident handling. A staged synthetic-then-consented approach is a viable default.
+
+Related Documents:
+```text
+InsurTech Startup Operating System
+Legal Architecture To Be Vetted
+Data Model Master Specification
+```
+---
+## Q224 — Should the first release record external insurance determinations only, or prepare for an approved participating carrier/partner integration?
+Category:
+```text
+FOUNDER
+PRODUCT
+TECHNICAL
+LEGAL
+```
+Priority:
+```text
+P1
+```
+Status:
+```text
+NEEDS_FOUNDER_DECISION
+```
+Why It Matters:
+
+External-determination recording is lower complexity and can prove the accountability model. A direct integration requires a named partner, data/authority basis, technical interface agreement, security testing, and rollback path.
+
+Related Documents:
+```text
+InsurTech Startup Operating System
+Insurance Determination and Claim Caller Addendum
+ClaimExpress Protocol Specification
+```
+---
+## Q225 — Who is the named human owner for the first InsurTech compliance queue and no-go decision?
+Category:
+```text
+FOUNDER
+OPERATIONS
+LEGAL
+AGENT
+```
+Priority:
+```text
+P0
+```
+Status:
+```text
+NEEDS_FOUNDER_DECISION
+```
+Why It Matters:
+
+Agents may prepare records and escalate gaps, but the company needs a responsible human to own professional-review coordination, open-issue treatment, readiness evidence, and the decision to hold or stop a pilot.
+
+Related Documents:
+```text
+InsurTech Startup Operating System
+InsurTech Pilot Launch-Gate Template
+Risks and Review Gates
+```
+---
+## Q226 — Which single user-directed claim/project workflow should constitute the first InsurTech Company Zero proof?
+Category:
+```text
+FOUNDER
+PRODUCT
+SEASON_1
+AGENT
+```
+Priority:
+```text
+P0
+```
+Status:
+```text
+NEEDS_FOUNDER_DECISION
+```
+Why It Matters:
+
+The first proof must be small enough to secure and test, yet complete enough to establish consent, evidence, authority, external-determination recording, exception handling, and learning. It should not require unapproved coverage, payment, or claims-administration authority.
+
+Potential Decision Path:
+```text
+Choose one workflow with a named user, jurisdiction, data basis, permitted platform role, acceptance tests, release owner, and retrospective measure.
+```
+---
 # 16. Open Question Review Cadence
 Questions should be reviewed:
 ```text
