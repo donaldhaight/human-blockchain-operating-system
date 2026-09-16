@@ -2587,6 +2587,165 @@ Potential Decision Path:
 Choose one workflow with a named project, jurisdiction, customer, contract/responsibility map, data basis, acceptance tests, release owner, and retrospective measure.
 ```
 ---
+## Q239 — Which five portfolio assertions should receive the first Assertion Records and Underwriting Experiment Cards?
+Category:
+```text
+FOUNDER
+STRATEGY
+PORTFOLIO
+UNDERWRITING
+```
+Priority:
+```text
+P0
+```
+Status:
+```text
+NEEDS_FOUNDER_DECISION
+```
+Why It Matters:
+
+The portfolio should not be treated as a set of equally proven companies or claims. Selecting the first assertions creates the practical underwriting queue and prevents the story from outrunning evidence.
+
+Related Documents:
+```text
+Portfolio Underwriting Operating System
+Underwriting Experiment Card Template
+Venture Studio and Incubator Operating System
+```
+---
+## Q240 — What evidence types can move an assertion away from zero?
+Category:
+```text
+FOUNDER
+EVIDENCE
+DASHBOARD
+UNDERWRITING
+```
+Priority:
+```text
+P0
+```
+Status:
+```text
+NEEDS_FOUNDER_DECISION
+```
+Why It Matters:
+
+Repeated model agreement, founder conviction, simulation, customer action, revenue, signed terms, independent reproduction, and contradictory evidence should not receive the same weight. The evidence policy determines how the dashboard underwrites the plan.
+
+Related Documents:
+```text
+Portfolio Underwriting Operating System
+Assumptions and Variables
+Quantum Dashboard Underwriting Model
+```
+---
+## Q241 — Should the first confidence model remain qualitative or become numerical later?
+Category:
+```text
+FOUNDER
+DASHBOARD
+UNDERWRITING
+PRODUCT
+```
+Priority:
+```text
+P1
+```
+Status:
+```text
+OPEN
+```
+Why It Matters:
+
+A qualitative model reduces false precision during the first experiments. A numerical method may become useful after evidence categories and review standards are stable.
+
+Potential Decision Path:
+```text
+Use qualitative states first: untested, explored, supported, contradicted, decision-ready. Defer numerical confidence until after several completed experiments.
+```
+---
+## Q242 — Which stakeholder views are essential for the first roofing/restoration experiment?
+Category:
+```text
+FOUNDER
+STAKEHOLDER
+PRODUCT
+DASHBOARD
+```
+Priority:
+```text
+P0
+```
+Status:
+```text
+NEEDS_FOUNDER_DECISION
+```
+Why It Matters:
+
+One fact base can support different views for property owner, licensed contractor, ISR, ClaimBuddy, sponsor, investor, platform admin, or legal/compliance reviewer. The first experiment must decide who sees what and why.
+
+Related Documents:
+```text
+Portfolio Underwriting Operating System
+Phase 1 Product Requirements Document
+Construction Management Startup Operating System
+InsurTech Startup Operating System
+```
+---
+## Q243 — Which reusable commercial object should be tested first?
+Category:
+```text
+FOUNDER
+BUSINESS_MODEL
+FINANCE
+UNDERWRITING
+```
+Priority:
+```text
+P0
+```
+Status:
+```text
+NEEDS_FOUNDER_DECISION
+```
+Why It Matters:
+
+Memberships, courses, events, sponsorships, seats, territories, stakeholder licenses, role licenses, lead fees, win fees, transaction fees, revenue shares, SaaS, professional services, and media/IP rights create different legal, tax, accounting, securities, referral, insurance, and construction consequences.
+
+Related Documents:
+```text
+Portfolio Underwriting Operating System
+Venture Studio and Incubator Operating System
+Risks and Review Gates
+```
+---
+## Q244 — What observed event, normalized fact, attribution claim, and settlement decision should be modeled first?
+Category:
+```text
+FOUNDER
+DATA_MODEL
+BOOKKEEPING
+UNDERWRITING
+```
+Priority:
+```text
+P0
+```
+Status:
+```text
+NEEDS_FOUNDER_DECISION
+```
+Why It Matters:
+
+The prior-session narrative distinguishes origin from compensation. Modeling the first example will prove that the ledger can preserve contribution without automatically creating a payment, ownership, or settlement entitlement.
+
+Potential Decision Path:
+```text
+Begin with one ordinary lead/project attribution scenario and keep compensation blocked until agreement, authority, accounting, and sector review are present.
+```
+---
 # 16. Open Question Review Cadence
 Questions should be reviewed:
 ```text

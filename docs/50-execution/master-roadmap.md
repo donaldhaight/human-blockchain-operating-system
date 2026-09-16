@@ -146,3 +146,9 @@ Done when one jurisdiction has a verified counsel-coverage record, an auditable 
 Establish a human-governed construction-management coordination and project-information model that supports explicit owner, contractor, project, site/safety, permit/inspection, quality, financial, and closeout responsibilities. Begin with one bounded Company Zero project using a baseline, change-control record, evidence ledger, protected agent actions, and launch-gate evidence. Do not present the platform as a licensed contractor, construction manager at risk, design professional, inspector, safety authority, payment custodian, or warrantor without a separately authorized and professionally reviewed operating path.
 
 Done when one selected project demonstrates an explicit authority matrix, baseline/change control, evidence distinction, tested platform/agent action blocks, issue/punch resolution record, closeout packet, and learning retrospective.
+
+## Parallel Track H — Portfolio Underwriting Operating System
+
+Establish the shared learning and decision layer for all ventures, sectors, providers, stakeholder views, and commercial objects. Start every material assertion at zero. Preserve sources, assertions, simulations, open questions, observed results, counterevidence, and decisions as distinct records. Begin with five Assertion Records and one bounded roofing/restoration Underwriting Experiment Card. Do not treat a model, score, narrative, or attribution claim as a fact, a compensation entitlement, or a protected decision without explicit evidence, authority, agreement, and the applicable sector gate.
+
+Done when the first experiment produces a traceable hypothesis, scope, stakeholder-view map, evidence/counterevidence record, human decision, and retrospective that updates the appropriate source, requirement, assumption, risk, decision, and backlog records.

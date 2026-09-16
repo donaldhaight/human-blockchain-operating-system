@@ -1,7 +1,7 @@
 {
   "okf_version": "0.2",
   "bundle_id": "human-blockchain-okf-001",
-  "generated_at": "2026-09-16T20:40:01.663Z",
+  "generated_at": "2026-09-16T21:05:30.132Z",
   "files": [
     {
       "path": "README.md",
@@ -409,8 +409,27 @@
       "path": "docs/50-execution/construction-management-pilot-launch-gate-template.md",
       "type": "construction-management-launch-gate-template",
       "status": "active-template"
+    },
+    {
+      "path": "sources/narratives/pasted-content-38-2026-09-16.txt",
+      "type": "preserved-source",
+      "status": "preserved-owner-provided-current-session",
+      "source_id": "SRC-012",
+      "sha256": "545862aedca477799818abfab2efb0f011a44eefe97a256166274590ed735f40"
+    },
+    {
+      "path": "docs/50-execution/portfolio-underwriting-operating-system.md",
+      "type": "portfolio-underwriting-operating-plan",
+      "status": "founder-working-draft",
+      "source_id": "SRC-012"
+    },
+    {
+      "path": "docs/50-execution/underwriting-experiment-card-template.md",
+      "type": "portfolio-underwriting-template",
+      "status": "active-template",
+      "source_id": "SRC-012"
     }
   ],
-  "source_count": 2,
+  "source_count": 3,
   "extracted_artifact_count": 33
 }
