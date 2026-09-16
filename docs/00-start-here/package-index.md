@@ -68,12 +68,13 @@ The package is generated from one shared operating model. Documents are audience
 
 | ID | Document | Status |
 |---|---|---|
-| E01 | Agent Team and Orchestration Manual | Developer/Agent Handoff and Agent System Prompt extracted |
+| E01 | Agent Team and Orchestration Manual | Developer/Agent Handoff and Agent System Prompt extracted; Agent Company and Venture Studio operating-model tracks added as founder working drafts |
 | E02 | Knowledge and Corpus Ingestion Specification | Requirements refresh exists |
 | E03 | Project Management and Automation Specification | Backlog, user stories, event schema, and flows extracted |
 | E04 | Technical Implementation and Repository Plan | Data model, ERD, dictionary, event schema, and handoff extracted |
 | E05 | One Prompt Event and Clean-Clone Runbook | Event package and rehearsal instructions extracted |
 | E06 | November 1, 2026 Launch Plan | Season plan and event package extracted |
+| E07 | Venture Studio and Incubator Operating System | Founder working draft; Company Zero proof and founder decisions pending |
 
 ## Production rule
 

@@ -6,7 +6,7 @@ owner: Donald Haight
 status: active
 sensitivity: public-repository
 created: 2026-08-16
-last_reviewed: 2026-08-16
+last_reviewed: 2026-09-16
 source_ids:
   - SRC-010
   - SRC-011
@@ -46,6 +46,8 @@ The repository contains an Open Knowledge Format bundle, Docusaurus documentatio
 - A preserved 157,801-word ClaimStore synthesis and original Manus operational narrative
 - Business, product, evidence, market, execution, and register document families
 - A living operational narrative and milestone history
+- A human-governed Agent Company Operating System planning track with explicit authority boundaries
+- A human-governed Venture Studio and Investment-Readiness Incubator planning track with capital and conflict controls
 
 ## What is not complete
 
@@ -56,6 +58,7 @@ The repository contains an Open Knowledge Format bundle, Docusaurus documentatio
 - Manus and ChatGPT exports have not been ingested into a source registry.
 - The 33 existing GitHub repositories have not been systematically inventoried.
 - The Phase Zero platform and domain lead-machine portfolio have not been generated from this foundation.
+- The Agent Company Operating System and Venture Studio tracks have not yet completed their first Company Zero delivery-loop proof.
 
 ## Current interpretation of the corpus
 

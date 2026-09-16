@@ -117,3 +117,14 @@ Inventory the existing GitHub repositories before rebuilding similar systems. Ca
 
 Done when every repository has a one-page evidence card and the portfolio has a reuse and recovery map.
 
+## Parallel Track C — Agent Company Operating System
+
+Establish the human-governed planning and delivery system that allows Market Applications and related business lines to convert founder intent into traceable software work. Begin with a repository-based Company Zero model: objectives, requirements, decisions, questions, risks, work items, agent briefs, quality checks, approvals, release evidence, and retrospectives. Do not build a general control-plane product before one bounded RRCA / ClaimStore delivery loop demonstrates which coordination bottlenecks merit software investment.
+
+Done when one approved internal software increment can be traced from objective through requirement, implementation, independent validation, accountable human approval, release evidence, and an updated learning record.
+
+## Parallel Track D — Venture Studio and Investment-Readiness Incubator
+
+Establish a human-governed venture-studio operating model that turns the existing portfolio into evidence-led Venture Cards, discovery briefs, prototypes, controlled pilots, diligence packets, and launch-readiness decisions. Begin as an internal studio and investment-readiness function. Do not represent the program as a fund, broker, investment adviser, securities marketplace, or capital vehicle until a separately authorized and professionally reviewed structure is selected.
+
+Done when the RRCA / ClaimStore Company Zero proof has produced a complete venture record and the founder has selected the first three venture candidates for documented discovery review.

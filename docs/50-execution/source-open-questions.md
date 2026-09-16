@@ -1865,9 +1865,7 @@ Update decision log.
 ---
 
 ## Q212 — Which AI agents are needed first?
-
 Category:
-
 ```text
 AGENT
 OPERATIONS
@@ -1898,13 +1896,217 @@ Legal Review Agent
 Sponsor Package Agent
 Kimosabe Coordinator Agent
 ```
-
 ---
+## Q213 — Which business line should carry the Agent Company Operating System?
+Category:
+```text
+FOUNDER
+STRATEGY
+AGENT
+```
+Priority:
+```text
+P1
+```
+Status:
+```text
+NEEDS_FOUNDER_DECISION
+```
+Why It Matters:
 
+The operating system needs a clear owner, naming context, and record boundary. Candidate treatments are Market Applications, an internal Human Blockchain operating capability, or another defined USA LLC business line.
+
+Related Documents:
+```text
+Agent Company Operating System
+Master Continuity Brief
+Decision Register
+```
+---
+## Q214 — Is the first Agent Company objective internal proof or an external software/services offering?
+Category:
+```text
+FOUNDER
+STRATEGY
+OPERATIONS
+```
+Priority:
+```text
+P1
+```
+Status:
+```text
+NEEDS_FOUNDER_DECISION
+```
+Why It Matters:
+
+An internal Company Zero proof keeps scope and legal exposure low. An external offering adds customer, contract, data, support, and commercial requirements.
+
+Related Documents:
+```text
+Agent Company Operating System
+Season 1 Operating Plan
+Risks and Review Gates
+```
+---
+## Q215 — Which bounded RRCA / ClaimStore delivery loop should be proved first?
+Category:
+```text
+FOUNDER
+PRODUCT
+SEASON_1
+AGENT
+```
+Priority:
+```text
+P0
+```
+Status:
+```text
+NEEDS_FOUNDER_DECISION
+```
+Why It Matters:
+
+The first loop defines the practical test of the agent-company model. It must be narrow, useful to RRCA, measurable, reversible, and representative of the Lead-to-Done architecture.
+
+Potential Decision Path:
+```text
+Select one capability with a named user, workflow, acceptance test, source basis, and release owner.
+```
+---
+## Q216 — Which initial operating model should Company Zero test first?
+Category:
+```text
+FOUNDER
+TECHNICAL
+AGENT
+```
+Priority:
+```text
+P1
+```
+Status:
+```text
+NEEDS_FOUNDER_DECISION
+```
+Why It Matters:
+
+The team can initially use a human-guided repository and workspace or invest immediately in a dedicated company control-plane application. The first option reduces setup and maximizes learning; the second increases repeatability but adds build and governance burden.
+
+Related Documents:
+```text
+Agent Company Operating System
+Master Roadmap
+Developer and Agent Handoff Package
+```
+---
+## Q217 — Which legal/business line should operate the initial venture studio and incubator function?
+Category:
+```text
+FOUNDER
+STRATEGY
+LEGAL
+```
+Priority:
+```text
+P1
+```
+Status:
+```text
+NEEDS_FOUNDER_DECISION
+```
+Why It Matters:
+
+The studio needs a clear accountable entity and scope. Candidate treatments include USA LLC, Market Applications, another current business line, or a later separately formed entity. A chosen label does not itself resolve entity, liability, ownership, tax, or securities requirements.
+
+Related Documents:
+```text
+Venture Studio and Incubator Operating System
+Master Continuity Brief
+Risks and Review Gates
+```
+---
+## Q218 — Does the first venture-studio phase serve only the internal portfolio or also an invited external founder cohort?
+Category:
+```text
+FOUNDER
+STRATEGY
+OPERATIONS
+```
+Priority:
+```text
+P1
+```
+Status:
+```text
+NEEDS_FOUNDER_DECISION
+```
+Why It Matters:
+
+An internal studio validates the method under existing authority and data boundaries. External participation adds selection, terms, IP, privacy, support, marketing, program, and potentially securities issues.
+
+Related Documents:
+```text
+Venture Studio and Incubator Operating System
+Agent Company Operating System
+Risks and Review Gates
+```
+---
+## Q219 — Which three venture candidates should receive the first Venture Cards after Company Zero?
+Category:
+```text
+FOUNDER
+STRATEGY
+PORTFOLIO
+```
+Priority:
+```text
+P1
+```
+Status:
+```text
+NEEDS_FOUNDER_DECISION
+```
+Why It Matters:
+
+The selection defines the initial portfolio and must be deliberate. Each candidate should be scored for founder conviction, customer access, evidence base, strategic fit, buildability, capital need, time horizon, risk, and relationship to the shared operating system.
+
+Related Documents:
+```text
+Venture Card Template
+Venture Studio and Incubator Operating System
+Master Roadmap
+```
+---
+## Q220 — What capital posture is intended for the first twelve months of the venture studio?
+Category:
+```text
+FOUNDER
+STRATEGY
+LEGAL
+FINANCE
+```
+Priority:
+```text
+P0
+```
+Status:
+```text
+NEEDS_FOUNDER_DECISION
+```
+Why It Matters:
+
+Founder-funded internal operations, service-funded work, sponsor/research-supported activity, and a future professionally designed capital pathway have different governance, timing, disclosure, entity, tax, and regulatory consequences.
+
+Related Documents:
+```text
+Venture Studio and Incubator Operating System
+Founding Sponsor Position Book
+Risks and Review Gates
+```
+---
 # 16. Open Question Review Cadence
-
 Questions should be reviewed:
-
 ```text
 Weekly during repository creation
 Weekly during MVP build

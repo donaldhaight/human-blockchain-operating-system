@@ -18,3 +18,7 @@ status: active-register
 | Automated work allocation and ratings | Fairness, explainability, appeal, accommodation, anti-gaming tests |
 | Public performance, valuation, partnership, or endorsement claims | Evidence and authorized disclosure review |
 | Production permission, money, legal, or publication changes | Named human approval and audit event |
+| Agent overreach, prompt injection, or unintended external commitment | Least-privilege tool access, untrusted-input handling, named human gate, attributable action record, and revocation path |
+| Agent-generated code or documentation defect | Automated checks, independent review, controlled release, monitoring, and recovery plan |
+| Venture-studio capital activity, investment advice, or securities characterization | Securities, investment-management, tax, entity, custody, conflicts, disclosures, and authority review before solicitation, acceptance, deployment, advice, or public representation |
+| Venture portfolio related-party conflicts, contribution rights, or implied ownership | Conflict disclosure, IP/contribution record, independent review where material, and documented approval before transaction or external representation |
