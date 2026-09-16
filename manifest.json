@@ -1,7 +1,7 @@
 {
   "okf_version": "0.2",
   "bundle_id": "human-blockchain-okf-001",
-  "generated_at": "2026-09-16T20:22:42.666Z",
+  "generated_at": "2026-09-16T20:29:15.403Z",
   "files": [
     {
       "path": "README.md",
@@ -388,6 +388,16 @@
     {
       "path": "docs/50-execution/insurtech-pilot-launch-gate-template.md",
       "type": "insurtech-launch-gate-template",
+      "status": "active-template"
+    },
+    {
+      "path": "docs/50-execution/legal-services-attorney-network-operating-system.md",
+      "type": "legal-services-attorney-network-operating-plan",
+      "status": "founder-working-draft"
+    },
+    {
+      "path": "docs/50-execution/legal-matter-jurisdictional-launch-gate-template.md",
+      "type": "legal-services-launch-gate-template",
       "status": "active-template"
     }
   ],

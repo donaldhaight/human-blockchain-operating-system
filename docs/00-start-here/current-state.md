@@ -50,6 +50,7 @@ The repository contains an Open Knowledge Format bundle, Docusaurus documentatio
 - Clean dependency installation, OKF validation, and local Docusaurus production build verified on 2026-09-15
 - A human-governed Venture Studio and Investment-Readiness Incubator planning track with capital and conflict controls
 - A human-governed InsurTech Startup Operating System planning track with jurisdiction, authority, data, and launch controls
+- A human-governed Legal Services and Jurisdictional Attorney Network planning track with counsel independence, client-choice, and professional-boundary controls
 
 ## What is not complete
 
@@ -62,6 +63,7 @@ The repository contains an Open Knowledge Format bundle, Docusaurus documentatio
 - The Phase Zero platform and domain lead-machine portfolio have not been generated from this foundation.
 - The Agent Company Operating System and Venture Studio tracks have not yet completed their first Company Zero delivery-loop proof.
 - The InsurTech track has not yet selected its pilot jurisdiction, product posture, data basis, or first bounded workflow proof.
+- The legal-services track has not selected an initial jurisdiction, client/matter posture, attorney-network model, data basis, or internal legal-readiness proof.
 
 ## Current interpretation of the corpus
 

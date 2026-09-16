@@ -134,3 +134,9 @@ Done when the RRCA / ClaimStore Company Zero proof has produced a complete ventu
 Establish a human-governed, insurance-adjacent software operating model that supports user-directed documentation, evidence, claim/project workflow, and accountable external-determination recording. Begin with a single-jurisdiction Company Zero pilot using synthetic or consented data, explicit authority boundaries, protected agent actions, and launch-gate evidence. Do not present the platform as an insurer, agency, producer, adjuster, claims administrator, escrow provider, payment institution, or fiduciary without a separately authorized and professionally reviewed operating path.
 
 Done when one selected RRCA / ClaimStore workflow demonstrates role-specific consent, evidence integrity, denied prohibited actions, reviewable external-determination recording, tested privacy/security boundaries, a release packet, and a learning retrospective.
+
+## Parallel Track F — Legal Services and Jurisdictional Attorney Network
+
+Establish a human-governed legal-readiness and jurisdictional-attorney network that coordinates independently qualified counsel without assuming the practice of law. Begin with verified coverage records, separate-engagement controls, client-choice disclosures, matter-data boundaries, agent action blocks, and a single-jurisdiction internal readiness proof. Do not use a DAO, platform, reciprocal attorney-in-fact, or operating company as a front for attorney-of-record status, legal advice, legal representation, professional judgment, or trust-money control.
+
+Done when one jurisdiction has a verified counsel-coverage record, an auditable intake-to-separate-engagement workflow, tested nonlawyer/agent protected actions, legal-matter launch-gate evidence, and a learning retrospective using synthetic or internal scenarios.

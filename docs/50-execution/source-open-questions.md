@@ -2266,6 +2266,167 @@ Potential Decision Path:
 Choose one workflow with a named user, jurisdiction, data basis, permitted platform role, acceptance tests, release owner, and retrospective measure.
 ```
 ---
+## Q227 — Is the first legal-services version internal legal-readiness infrastructure or a limited external attorney-network pilot after professional review?
+Category:
+```text
+FOUNDER
+STRATEGY
+LEGAL
+OPERATIONS
+```
+Priority:
+```text
+P0
+```
+Status:
+```text
+NEEDS_FOUNDER_DECISION
+```
+Why It Matters:
+
+Internal legal-readiness work can prove the coverage record, confidentiality, and agent blocks without presenting services to clients. An external network adds professional-entity, attorney verification, conflicts, engagement, advertising, client-choice, fee, privacy, and jurisdiction requirements.
+
+Related Documents:
+```text
+Legal Services and Jurisdictional Attorney Network Operating System
+Legal Matter and Jurisdictional Launch-Gate Template
+Risks and Review Gates
+```
+---
+## Q228 — Which state and forum/venue context should govern the first jurisdictional attorney-network review?
+Category:
+```text
+FOUNDER
+LEGAL
+SEASON_1
+OPERATIONS
+```
+Priority:
+```text
+P0
+```
+Status:
+```text
+NEEDS_FOUNDER_DECISION
+```
+Why It Matters:
+
+Professional responsibility, legal-service entity rules, advertising, referral/fee arrangements, data handling, court practice, insurance regulation, and reciprocal structures depend on the relevant jurisdiction. County or venue capability should not be described as a platform-issued legal license.
+
+Related Documents:
+```text
+Legal Services and Jurisdictional Attorney Network Operating System
+Legal Architecture To Be Vetted
+InsurTech Startup Operating System
+```
+---
+## Q229 — Who is the intended client for the first legal matter or legal-readiness work?
+Category:
+```text
+FOUNDER
+LEGAL
+GOVERNANCE
+```
+Priority:
+```text
+P0
+```
+Status:
+```text
+NEEDS_FOUNDER_DECISION
+```
+Why It Matters:
+
+A property owner, contractor, RRCA, USA LLC, prospective reciprocal/attorney-in-fact entity, InsurTech platform, and DAO may have different interests. The client must be identified before legal advice, privilege, conflict analysis, engagement, data access, or representation can be discussed.
+
+Related Documents:
+```text
+Legal Services and Jurisdictional Attorney Network Operating System
+Legal Architecture To Be Vetted
+Risks and Review Gates
+```
+---
+## Q230 — What attorney-network structure should be tested first?
+Category:
+```text
+FOUNDER
+LEGAL
+STRATEGY
+GOVERNANCE
+```
+Priority:
+```text
+P1
+```
+Status:
+```text
+NEEDS_FOUNDER_DECISION
+```
+Why It Matters:
+
+The initial alternatives are an independent attorney/firm coordination network, a future lawyer-controlled professional entity, or a DAO-supported standards/community layer that performs no legal representation. They differ materially in professional control, economics, data, governance, and regulatory constraints.
+
+Related Documents:
+```text
+Legal Services and Jurisdictional Attorney Network Operating System
+Venture Studio and Incubator Operating System
+Risks and Review Gates
+```
+---
+## Q231 — Is a reciprocal insurance exchange an exploratory future venture or an active formation objective?
+Category:
+```text
+FOUNDER
+INSURANCE
+LEGAL
+STRATEGY
+```
+Priority:
+```text
+P0
+```
+Status:
+```text
+NEEDS_FOUNDER_DECISION
+```
+Why It Matters:
+
+An attorney-in-fact can be an insurance-management role in a reciprocal structure, but it is not the same as an attorney-at-law or attorney of record. Active formation changes the required insurance-regulatory, capitalization, governance, contracts, client/entity, and professional-review work.
+
+Related Documents:
+```text
+Legal Services and Jurisdictional Attorney Network Operating System
+InsurTech Startup Operating System
+Risks and Review Gates
+```
+---
+## Q232 — What data basis may the legal-services readiness proof use?
+Category:
+```text
+FOUNDER
+LEGAL
+DATA_MODEL
+SECURITY
+```
+Priority:
+```text
+P0
+```
+Status:
+```text
+NEEDS_FOUNDER_DECISION
+```
+Why It Matters:
+
+Synthetic/internal scenarios provide the lowest-risk method to test routing, coverage records, permissions, and agent blocks. Real intake or matter data requires carefully defined client, engagement, notice, authorization, confidentiality, privilege, processor, retention, and incident controls.
+
+Related Documents:
+```text
+Legal Matter and Jurisdictional Launch-Gate Template
+Legal Services and Jurisdictional Attorney Network Operating System
+Risks and Review Gates
+```
+---
 # 16. Open Question Review Cadence
 Questions should be reviewed:
 ```text
