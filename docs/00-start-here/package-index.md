@@ -42,6 +42,8 @@ The package is generated from one shared operating model. Documents are audience
 | B07 | Task Efficiency Rating Specification | Extracted working model; fairness validation remains |
 | B08 | Buddy Claim, ClaimBuddy, and SelfInsurity Model | Extracted working model; regulatory design remains |
 | B09 | ClaimStore Neutral Infrastructure Model | Extracted working model; regulated status remains open |
+| B10 | JobNimbus Integration PRD | Proposed-ready; partitioned federation posture accepted 2026-09-29 |
+| B11 | JobNimbus Integration SRS | Proposed-ready; implements B10; Contacts and Jobs first loop |
 
 ## Package C — Money, evidence, and review
 

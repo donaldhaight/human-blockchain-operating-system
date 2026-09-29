@@ -18,3 +18,4 @@ status: active-register
 | Automated work allocation and ratings | Fairness, explainability, appeal, accommodation, anti-gaming tests |
 | Public performance, valuation, partnership, or endorsement claims | Evidence and authorized disclosure review |
 | Production permission, money, legal, or publication changes | Named human approval and audit event |
+| Integration with a vendor system lacking an OpenAPI spec, sandbox, published rate limits, and a webhook subscription API | Contract verification, conservative self-throttle, poll-verified architecture, dry-run write path, and per-account kill switch |
