@@ -19,3 +19,5 @@ status: active-seed
 | SRC-009 | Domains, legal agreements, SLAs, formation, bank, tax, and consulting records | Asset, authority, compliance, and historical evidence; staged review |
 | SRC-010 | ChatGPT-2 — ClaimStore Vision Requirements, exported 2026-08-16 | 157,801-word synthesis created from approximately 15 origin documents; source for 33 extracted working artifacts |
 | SRC-011 | Operational narratives and GitHub cornerstone session, 2026-08-15–16 | Continuity narrative, repository decisions, integrity evidence, and milestone record; original Manus narrative publicly included by explicit owner authorization on 2026-08-16 |
+| SRC-012 | JobNimbus public API surface — vendor Postman reference, vendor support documentation, community implementation artifacts, and third-party assessments, retrieved 2026-09-29 | Evidence base for the JobNimbus integration PRD (B10) and SRS (B11) |
+| SRC-013 | JobNimbus integration architecture session, 2026-09-29 | Partitioned federation decision, the Interlock Method, and the B10/B11 document set |

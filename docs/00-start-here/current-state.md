@@ -63,6 +63,10 @@ The corpus is not a single perfected manuscript and does not need to become one 
 
 All source material is useful and eligible for retrieval and regeneration. A separate `current programming baseline` will give developers clear Season 1 and Season 2 instructions without demoting the rest of the corpus.
 
+## JobNimbus integration baseline (2026-09-29)
+The JobNimbus integration definition has been added to Package B as **B10 (PRD)** and **B11 (SRS)**.
+**Accepted posture:** Partitioned Federation — authority is assigned per field, not per system. JobNimbus remains authoritative on operational execution; Kimosabe becomes authoritative on governance and consequence. Governing rule: *JobNimbus owns what the contractor's crew does. Kimosabe owns what the contractor's crew owes.*
+
 ## Documentation deployment
 
 Issue [#4](https://github.com/donaldhaight/human-blockchain-operating-system/issues/4) defines the first engineering milestone. The repository now carries the proposed GitHub Actions workflows, deterministic npm lockfile, GitHub Pages configuration, and expected public URL:

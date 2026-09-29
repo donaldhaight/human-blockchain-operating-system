@@ -17,3 +17,7 @@ status: active-register
 | DEC-007 | Treat the corpus as production fuel and evidence, not immutable canon | Current | Founder |
 | DEC-008 | Build one complete RRCA Lead-to-Done loop before scaling | Current recommendation | Founder accepted direction |
 | DEC-009 | Use the OKF bundle as both agent knowledge package and Docusaurus content source | Current | Founder accepted direction |
+| DEC-010 | Adopt Partitioned Federation — authority assigned per field, not per system — for the JobNimbus integration | Current, accepted 2026-09-29 | Founder |
+| DEC-011 | Treat JobNimbus as an observed external system; the Kimosabe Event Ledger remains the append-only source of record | Current, accepted 2026-09-29 | Founder |
+| DEC-012 | Do not require contractors to leave JobNimbus; Kimosabe is the governance layer, not a CRM replacement | Current, accepted 2026-09-29 | Founder |
+| DEC-013 | Imported JobNimbus events are untrusted on arrival and require corroboration before being treated as verified | Current, derived from OKF Rule 3 | Founder accepted direction |
