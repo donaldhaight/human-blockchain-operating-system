@@ -396,13 +396,24 @@ flowchart TD
 
 | Phase | Name | Scope | Exit criteria |
 |---|---|---|---|
-| **0** | Verification and Extraction | Confirm account tier and API access; historical pull; schema map verified against a real account | Account access confirmed; schema map validated against live responses; no write path enabled |
+| **0** | Verification and Extraction — *runs as an independent workstream; see §12.1* | Confirm account tier and API access; verify `date_updated` monotonicity; historical pull; schema map verified against a real account | Account access confirmed; `date_updated` monotonicity verified; schema map validated against live responses; no write path enabled |
 | **1** | The Interlock | Contacts + Jobs; first complete loop; ledger events; conversion credit; GL entry | **M1 achieved** — one real job closes NEED→DONE with a correct ledger event and credit |
 | **2** | Commercial Extension | Estimates, invoices, payments reconciled; commissions computed | Commissions reconcile to the contractor's own numbers within tolerance |
 | **3** | Governance Push | Territory, Season, Designation written into JobNimbus custom fields and tags | A contractor sees their territory standing inside JobNimbus |
 | **4** | Graduation | Selected fields migrate to Kimosabe authority | Adoption metrics justify each graduation; matrix updated with decision entries |
 
 **Phase 0 is valuable on its own and is the correct fallback if any later phase stalls.**
+
+### 12.1 Phase 0 is an independent workstream
+
+Phase 0 is **read-only**, has **no dependency on the account-tier gate**, and produces valuation evidence on its own. It should be scheduled as a separate workstream rather than as the first phase of the same program.
+
+Two verifications must complete before any build work begins:
+
+| Verification | Why it is load-bearing |
+|---|---|
+| **`date_updated` monotonicity** | If the field is not monotonic, the watermark strategy fails **silently** and changes are lost. This is the highest-severity technical assumption in the design (VAR-014). |
+| **`external_id` writability on contacts and jobs** | If the field is not writable, the merge strategy degrades to mapping-only (VAR-013). |
 
 ---
 

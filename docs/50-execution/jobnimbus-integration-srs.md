@@ -158,6 +158,8 @@ All PRD-C-001 through PRD-C-010 apply and are restated here as binding engineeri
 | VAR-013 | The `external_id` field is writable on contacts and jobs | Merge key must move to a custom field or a mapping-only strategy |
 | VAR-014 | `date_updated` advances monotonically | Watermark strategy requires a secondary corroborating signal |
 
+**VAR-014 is load-bearing and must be verified in Phase 0 before any build work begins.** If `date_updated` is not monotonic, the watermark strategy fails silently and changes are lost. VAR-013 (`external_id` writability) must be verified in the same pass.
+
 ---
 
 ## 4. System Architecture
@@ -324,6 +326,8 @@ All PRD-C-001 through PRD-C-010 apply and are restated here as binding engineeri
 | **SRS-DR-011** | Every imported change shall retain its raw source payload for audit and replay. |
 | **SRS-DR-012** | Retention period shall be set by the bundle privacy gate (see PRD Q7) and shall be configurable, not hardcoded. |
 | **SRS-DR-013** | Raw payloads shall be stored in a manner that supports replay of the translation step without re-fetching from the vendor. |
+| **SRS-DR-014** | The system shall specify and apply a timezone mapping between JobNimbus Unix timestamps, JobNimbus human-readable date fields, and the ledger's ISO-8601 `occurred_at`. No timestamp shall be stored without an explicit timezone basis. |
+| **SRS-DR-015** | Where a JobNimbus address cannot be normalized to a verified Kimosabe address with confidence, the record shall enter a **merge review queue** rather than being auto-merged. Merge shall not be silently best-effort. |
 
 ---
 
@@ -376,7 +380,9 @@ All PRD-C-001 through PRD-C-010 apply and are restated here as binding engineeri
 | **SRS-FR-021** | The system shall promote an event to corroborated when the same state is independently observed in a subsequent reconciliation cycle, or when webhook and poll agree on the change. | SRS-T-008 |
 | **SRS-FR-022** | The Translator shall be replayable from stored raw payloads without vendor re-fetch. | SRS-T-029 |
 
-> **Note — open design decision.** SRS-FR-021 states a **proposed** corroboration rule. The authoritative rule is PRD Q5 and is not yet decided. This requirement is marked `proposed` and must be confirmed before Phase 1 exit.
+> **Note — open design decision, and a legal one.** SRS-FR-021 states a **proposed** corroboration rule. The authoritative rule is PRD Q5 and is not yet decided. This requirement is marked `proposed` and must be confirmed before Phase 1 exit.
+>
+> **Counsel review required.** Promoting an imported event from `untrusted` to `trusted` is functionally an **attestation** that the recorded state is correct. Where a credit, commission, or settlement depends on that promotion, the promotion is a consequential act. Q5 is therefore a counsel question as well as a product question.
 
 ### 7.6 Credit and bookkeeping
 
@@ -412,6 +418,7 @@ All PRD-C-001 through PRD-C-010 apply and are restated here as binding engineeri
 |---|---|---|
 | **SRS-FR-036** | The system shall provide a per-account provisioning runbook covering API key creation, access profile scoping, custom field creation, and webhook wiring. | SRS-T-038 |
 | **SRS-FR-037** | The system shall verify provisioning completeness and report any missing element before enabling writes. | SRS-T-039 |
+| **SRS-FR-038** | The system shall route a record that repeatedly fails processing to a dead-letter queue after a bounded retry count, so that one poison record cannot stall the watermark indefinitely. Dead-lettered records shall be alerted and replayable. | SRS-T-053 |
 
 ---
 
@@ -610,6 +617,8 @@ sequenceDiagram
 | **SRS-T-049** | Per-account disable halts writes, preserves reads | Integration |
 | **SRS-T-050** | Replay of any stored payload is side-effect free | Integration |
 | **SRS-T-051** | Any component restart is safe | Fault injection |
+| **SRS-T-052** | Static analysis asserts no module outside the Adapter references `api1`, `v2`, `jnid`, `cf_`, `actor=`, `skip=`, `bulk=`, or vendor field names | Static gate |
+| **SRS-T-053** | A poison record is dead-lettered after bounded retries and does not stall the watermark | Fault injection |
 
 ---
 
@@ -681,6 +690,9 @@ sequenceDiagram
 | PRD-NFR-006 | SRS-NFR-009 | SRS-T-048 |
 | PRD-NFR-007 | SRS-DR-011, 012 | Privacy gate review |
 | PRD-NFR-008 | SRS-NFR-010 | SRS-T-049 |
+| PRD-C-006 (vendor isolation) | SRS Appendix A gate | SRS-T-052 |
+| PRD-NFR-003 (no data loss) | SRS-FR-038 (dead-letter path) | SRS-T-053 |
+| PRD-NFR-006 (auditability) | SRS-DR-014, SRS-DR-015 | SRS-T-048, merge review |
 
 ---
 
