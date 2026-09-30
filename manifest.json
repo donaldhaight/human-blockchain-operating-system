@@ -359,6 +359,12 @@
       "type": "extracted-knowledge-artifact",
       "status": "working-draft",
       "source_id": "SRC-010"
+   },
+    {
+      "path": "docs/50-execution/ltdansplan-com-site-record.md",
+      "type": "site-deployment-record",
+      "status": "active",
+      "source_id": "SRC-011"
     }
   ],
   "source_count": 2,
